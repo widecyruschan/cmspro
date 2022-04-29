@@ -172,7 +172,7 @@ h6,
     line-height: 1.5;
     margin: 0 0 1rem 0;
     color: #1e2022;
-    font-weight: 700;
+    font-weight: 500;
     position: relative;
 }
 
@@ -310,7 +310,7 @@ p.fitted,
 }
 
 .overlay.white::before {
-    background: #fff;
+    background: transparent;
 }
 
 .overlay.dark::before {
@@ -333,13 +333,14 @@ header#header {
     right: 0;
     left: 0;
     z-index: 1030;
-    background-color: var(--body-bg-color);
+    /* background-color: var(--secondary-color); */
+    background-color: rgba(0, 60, 124, 0.85);
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 header#header .top-bar {
     background: var(--secondary-color);
-    padding: .5rem 0;
+    padding: .15rem 0;
     border-bottom: 1px solid rgba(255, 255, 255, 0.1)
 }
 
@@ -350,7 +351,7 @@ header#header.sticky .top-bar {
 header#header.sticky {
     -webkit-animation: smoothScroll 1s forwards;
     animation: smoothScroll 1s forwards;
-    background-color: #fff;
+    background-color: var(--secondary-color);
     border-bottom: 0;
     box-shadow: 0 5px 25px 0 rgba(27, 20, 100, 0.15);
 }
@@ -392,6 +393,7 @@ header .logo .logoshape2 {
 
 main {
     flex: 1 0 auto;
+    background-size: 100% auto!important;
 }
 
 aside h4 {
@@ -415,7 +417,7 @@ nav.menu .menu-dropdown-icon>a::after {
     font-family: "WojoIcons";
     float: right;
     margin-left: .5rem;
-    color: #000;
+    color: #fff;
 }
 
 nav.menu .menu-dropdown-icon:before {
@@ -471,18 +473,18 @@ nav.menu>ul>li>a {
     text-align: left;
     text-transform: uppercase;
     letter-spacing: 0.6px;
-    color: #111;
+    color: #fff;
     opacity: 0.8;
     font-size: .813rem;
     position: relative;
 }
 
 header#header.sticky nav.menu>ul>li>a {
-    color: #111;
+    color: #fff;
 }
 
 header#header.sticky nav.menu .menu-dropdown-icon>a::after {
-    color: #111;
+    color: #fff;
 }
 
 nav.menu>ul>li>a::before {
@@ -529,7 +531,7 @@ header#header.sticky nav.menu>ul>li>a.active {
 nav.menu>ul>li>ul {
     display: none;
     width: 100%;
-    background: #fff;
+    background: var(--secondary-color);
     padding: 0;
     position: absolute;
     z-index: 999;
@@ -564,7 +566,7 @@ nav.menu>ul>li>ul>li a {
     margin: 0 .5rem;
     display: block;
     font-size: 0.750rem;
-    color: var(--grey-color);
+    color: #fff;
     text-transform: uppercase;
     font-weight: 500;
     cursor: default;
@@ -600,7 +602,7 @@ nav.menu>ul>li>ul>li>ul>li {
 nav.menu>ul>li>ul>li>ul>li a {
     border: 0;
     text-transform: none;
-    color: var(--dark-color);
+    color: #fff;
     font-size: .875rem;
     font-weight: 400;
     margin: 0;
@@ -626,7 +628,7 @@ nav.menu>ul>li>ul.normal-sub>li {
 nav.menu>ul>li>ul.normal-sub>li a {
     border: 0;
     margin: 0;
-    color: var(--dark-color);
+    color: #fff;
     padding: 1rem 1.5rem;
     cursor: pointer;
 }
@@ -637,7 +639,7 @@ nav.menu>ul>li>ul.normal-sub>li a:hover {
 }
 
 #pageCaption {
-    padding: 9rem 0 6rem 0;
+    padding: 12rem 0 6rem 0;
     position: relative;
     background-repeat: no-repeat;
     background-position: center center;
@@ -655,7 +657,7 @@ nav.menu>ul>li>ul.normal-sub>li a:hover {
     width: 100%;
     height: 100%;
     content: "";
-    opacity: 0.75;
+    opacity: 0.25;
     z-index: -35;
     background: var(--secondary-color);
 }
@@ -674,9 +676,9 @@ nav.menu>ul>li>ul.normal-sub>li a:hover {
     background-color: var(--secondary-color);
     position: relative;
     z-index: 1;
-    padding: 10rem 0 6rem 0;
+    padding: 14rem 0 8rem 0;
     margin-bottom: 2rem;
-    background: url("../images/module_header.jpg") no-repeat;
+    background: url("../images/hongkong.jpg") no-repeat;
     background-size: cover;
 }
 
@@ -1051,7 +1053,7 @@ body.page_dashboard main {
     z-index: 9999;
     padding: 1.25rem;
     text-align: center;
-    background-color: var(--primary-color);
+    background-color: #00000033;
     cursor: pointer;
     display: none;
     opacity: .5;
@@ -1144,6 +1146,12 @@ body#errorPage footer {
     margin: 0;
     padding: 0;
     background-color: transparent;
+}
+
+.index_section {
+    background-image: url("../images/concrete_seamless.jpeg");
+    padding-top: 36px;
+    padding-bottom: 20px;
 }
 
 
@@ -1430,7 +1438,7 @@ input:autofill {
     }
     .wojo.mason,
     .wojo.mason.three {
-        display: block;
+        display: block!important;
     }
     .wojo.fluid.list .item>.content {
         flex: auto;

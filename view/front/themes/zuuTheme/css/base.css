@@ -646,7 +646,6 @@ body {
     column-count: 3;
     -webkit-column-gap: 2rem;
     column-gap: 2rem;
-    display: flex;
     counter-reset: item-counter;
 }
 
@@ -1088,7 +1087,7 @@ body {
 
 .row.small.gutters>.columns {
     padding-left: calc(var(--gutter) / 2);
-    margin-bottom: calc(var(--gutter));
+    margin-bottom: calc(var(--gutter) / 2);
     margin-top: calc(var(--gutter) / 2);
 }
 
@@ -1102,9 +1101,10 @@ body {
     margin-bottom: calc(var(--gutter) * 3);
 }
 
-.row.horizontal.gutters>.columns {
+
+/* .row.horizontal.gutters>.columns {
     margin-bottom: 0;
-}
+} */
 
 .row.vertical.gutters>.columns {
     padding-left: 0;
