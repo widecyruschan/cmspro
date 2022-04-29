@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_MOD_PF_ADD">添加項目</phrase>
+	<phrase data="_MOD_PF_CAT_ADDED_OK">類別 [NAME] 添加成功！</phrase>
+	<phrase data="_MOD_PF_CAT_DEL_OK">類別 [NAME] 已成功刪除！</phrase>
+	<phrase data="_MOD_PF_CAT_UPDATE_OK">類別 [NAME] 更新成功！</phrase>
+	<phrase data="_MOD_PF_SUB1">客戶</phrase>
+	<phrase data="_MOD_PF_SUB4">投資組合配置</phrase>
+	<phrase data="_MOD_PF_SUB2">編輯項目</phrase>
+	<phrase data="_MOD_PF_SUB11">精選物品</phrase>
+	<phrase data="_MOD_PF_ITM_ADDED_OK">項目 [NAME] 添加成功！</phrase>
+	<phrase data="_MOD_PF_DEL_OK">項目 [NAME] 已成功刪除！</phrase>
+	<phrase data="_MOD_PF_ITM_UPDATE_OK">項目 [NAME] 更新成功！</phrase>
+	<phrase data="_MOD_PF_SUB7">項目佈局</phrase>
+	<phrase data="_MOD_PF_SUB">項目管理</phrase>
+	<phrase data="_MOD_PF_SUB5">每個類別頁面的項目</phrase>
+	<phrase data="_MOD_PF_SUB6">每個主頁的項目</phrase>
+	<phrase data="_MOD_PF_SUB13">最新項目</phrase>
+	<phrase data="_MOD_PF_TITLE">管理 CMS 投資組合模塊</phrase>
+	<phrase data="_MOD_PF_NEWCAT">新類別</phrase>
+	<phrase data="_MOD_PF_NEWITM">新物品</phrase>
+	<phrase data="_MOD_PF_SUB3">投資組合類別</phrase>
+	<phrase data="_MOD_PF_CUPDATED">投資組合設置更新成功！</phrase>
+	<phrase data="_MOD_PF_SUB8">顯示類別導航</phrase>
+	<phrase data="_MOD_PF_SUB10">僅顯示精選</phrase>
+	<phrase data="_MOD_PF_SUB12">顯示社交圖標</phrase>
+	<phrase data="_MOD_PF_SUB9">顯示排序選項</phrase>
+	<phrase data="_MOD_PF_UPDATECAT">更新類別</phrase>
+	<phrase data="_MOD_PF_UPDATEITM">更新項目</phrase>
+	<phrase data="_MOD_PF_NOPROJ">您還沒有任何項目。請加...</phrase>
+</language>

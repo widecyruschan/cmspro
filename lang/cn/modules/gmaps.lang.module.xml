@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_MOD_GM_PINS">自定义引脚</phrase>
+	<phrase data="_MOD_GM_TITLE1">编辑位置图</phrase>
+	<phrase data="_MOD_GM_SUB5">查找地址</phrase>
+	<phrase data="_MOD_GM_LAT">纬度</phrase>
+	<phrase data="_MOD_GM_ADDED_OK">位置 [NAME] 添加成功！</phrase>
+	<phrase data="_MOD_GM_DEL_OK">位置 [NAME] 已成功删除！</phrase>
+	<phrase data="_MOD_GM_UPDATE_OK">位置 [NAME] 已成功更新！</phrase>
+	<phrase data="_MOD_GM_LNG">经度</phrase>
+	<phrase data="_MOD_GM_TITLE">管理位置图</phrase>
+	<phrase data="_MOD_GM_SUB">地图类型</phrase>
+	<phrase data="_MOD_GM_SUB1_1">最小/最大缩放级别</phrase>
+	<phrase data="_MOD_GM_NEW">新地点</phrase>
+	<phrase data="_MOD_GM_SUB7">新地点</phrase>
+	<phrase data="_MOD_GM_TITLE2">新的位置图</phrase>
+	<phrase data="_MOD_GM_SUB6">别针</phrase>
+	<phrase data="_MOD_GM_SUB4">预设样式</phrase>
+	<phrase data="_MOD_GM_SUB3">街景</phrase>
+	<phrase data="_MOD_GM_SUB2">类型控制</phrase>
+	<phrase data="_MOD_GM_UPDATE">更新地图</phrase>
+	<phrase data="_MOD_GM_NOMAPS">您还没有任何位置。请加...</phrase>
+	<phrase data="_MOD_GM_SUB1">缩放级别</phrase>
+</language>

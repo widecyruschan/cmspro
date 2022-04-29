@@ -1,0 +1,39 @@
+#formBuilder .wojo.fields {
+  position: relative;
+}
+#formBuilder .wojo.fields.active,
+#formBuilder .wojo.fields.ghost {
+  outline: 2px dashed #1E88E5;
+}
+#formBuilder .wojo.fields .remove {
+  cursor: pointer;
+  padding: 0;
+}
+#formBuilder .wojo.fields .handle {
+  cursor: move;
+  padding: 0;
+}
+#formBuilder .wojo.form .field > p,
+#formBuilder .wojo.form .labeled label {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+#formBuilder .wojo.form textarea.expend {
+  height: 300px;
+  position: absolute;
+  z-index: 50;
+  box-shadow: 0 2px 4px rgba(34,36,38,0.15), 0 1px 1px rgba(34,36,38,0.1);
+}
+#formBuilder .wojo.form textarea.error {
+  border: 1px solid #e7bdbc;
+}
+
+@media screen and (max-width:48.063em) {
+#formBuilder .wojo.fields .remove {
+  left: -2.5em;
+  top: 0
+}
+#formBuilder .wojo.fields .field.labeled {
+  margin-bottom: 1em
+}
+}

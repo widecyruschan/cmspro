@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_PLG_DP_ADDED_OK">广告系列 [NAME] 添加成功！</phrase>
+	<phrase data="_PLG_DP_UPDATE_OK">广告系列 [NAME] 已成功更新！</phrase>
+	<phrase data="_PLG_DP_SUB1">活动名称</phrase>
+	<phrase data="_PLG_DP_DONATE">捐</phrase>
+	<phrase data="_PLG_DP_TITLE1">捐赠配置</phrase>
+	<phrase data="_PLG_DP_INFO">在这里您可以管理您的捐赠插件。</phrase>
+	<phrase data="_PLG_DP_TITLE">管理 CMS 捐赠插件</phrase>
+	<phrase data="_PLG_DP_NEW">新捐款</phrase>
+	<phrase data="_PLG_DP_SUB">新的捐赠活动</phrase>
+	<phrase data="_PLG_DP_SUB2">付款方式</phrase>
+	<phrase data="_PLG_DP_SUB3">成功重定向页面</phrase>
+	<phrase data="_PLG_DP_TARGET">目标金额</phrase>
+	<phrase data="_PLG_DP_SUB4">更新捐赠活动</phrase>
+	<phrase data="_PLG_DP_NODON">您还没有任何捐赠插件...</phrase>
+</language>

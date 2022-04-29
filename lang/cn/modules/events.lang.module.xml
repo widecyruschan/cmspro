@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_MOD_EM_SUB">添加事件</phrase>
+	<phrase data="_MOD_EM_COLOUR">颜色标记</phrase>
+	<phrase data="_MOD_EM_SUB2">接触</phrase>
+	<phrase data="_MOD_EM_EMAIL">联系电子邮件</phrase>
+	<phrase data="_MOD_EM_CONTACT">联系人</phrase>
+	<phrase data="_MOD_EM_PHONE">联系电话</phrase>
+	<phrase data="_MOD_EM_DATE_E">日期结束</phrase>
+	<phrase data="_MOD_EM_DATE_ST">开始日期</phrase>
+	<phrase data="_MOD_EM_DATE_SE">日期/时间结束</phrase>
+	<phrase data="_MOD_EM_DATE_S">日期/时间开始</phrase>
+	<phrase data="_MOD_EM_TITLE1">编辑事件</phrase>
+	<phrase data="_MOD_EM_SUB23">结尾</phrase>
+	<phrase data="_MOD_EM_ADDED_OK">活动 [NAME] 添加成功！</phrase>
+	<phrase data="_MOD_EM_DEL_OK">事件 [NAME] 已成功删除！</phrase>
+	<phrase data="_MOD_EM_UPDATE_OK">事件 [NAME] 更新成功！</phrase>
+	<phrase data="_MOD_EM_TITLE">事件管理器</phrase>
+	<phrase data="_MOD_EM_SUB3">年度最新活动 [YEAR]</phrase>
+	<phrase data="_MOD_EM_TITLE2">新事件</phrase>
+	<phrase data="_MOD_EM_NOEVENTSF">抱歉，我们还没有任何活动...</phrase>
+	<phrase data="_MOD_EM_TITLE3">今年活动</phrase>
+	<phrase data="_MOD_EM_TIME_ET">时间结束</phrase>
+	<phrase data="_MOD_EM_TIME_ST">时间开始</phrase>
+	<phrase data="_MOD_EM_TIME_S">时间开始/时间结束</phrase>
+	<phrase data="_MOD_EM_UPDATE">更新事件</phrase>
+	<phrase data="_MOD_EM_SUB1">场地</phrase>
+	<phrase data="_MOD_EM_VENUE">场地名称</phrase>
+	<phrase data="_MOD_EM_NOEVENTS">您还没有任何活动。请加...</phrase>
+</language>

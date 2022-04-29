@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_PLG_TW_TOKEN">访问令牌</phrase>
+	<phrase data="_PLG_TW_TSECRET">访问令牌秘密</phrase>
+	<phrase data="_PLG_TW_KEY">消费者密钥</phrase>
+	<phrase data="_PLG_TW_SECRET">消费者秘密</phrase>
+	<phrase data="_PLG_TW_COUNT">要显示的项目</phrase>
+	<phrase data="_PLG_TW_TITLE">管理 CMS 最新的 Twitts 插件</phrase>
+	<phrase data="_PLG_TW_SHOW_IMG">显示头像</phrase>
+	<phrase data="_PLG_TW_TRANS">过渡速度</phrase>
+	<phrase data="_PLG_TW_TRANS_T">过渡超时</phrase>
+	<phrase data="_PLG_TW_UPDATED">Twitter 设置更新成功！</phrase>
+	<phrase data="_PLG_TW_USER">您的用户名</phrase>
+</language>

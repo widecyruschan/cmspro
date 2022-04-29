@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_MOD_PF_ADD">添加项目</phrase>
+	<phrase data="_MOD_PF_CAT_ADDED_OK">类别 [NAME] 添加成功！</phrase>
+	<phrase data="_MOD_PF_CAT_DEL_OK">类别 [NAME] 已成功删除！</phrase>
+	<phrase data="_MOD_PF_CAT_UPDATE_OK">类别 [NAME] 更新成功！</phrase>
+	<phrase data="_MOD_PF_SUB1">客户</phrase>
+	<phrase data="_MOD_PF_SUB4">投资组合配置</phrase>
+	<phrase data="_MOD_PF_SUB2">编辑项目</phrase>
+	<phrase data="_MOD_PF_SUB11">精选物品</phrase>
+	<phrase data="_MOD_PF_ITM_ADDED_OK">项目 [NAME] 添加成功！</phrase>
+	<phrase data="_MOD_PF_DEL_OK">项目 [NAME] 已成功删除！</phrase>
+	<phrase data="_MOD_PF_ITM_UPDATE_OK">项目 [NAME] 更新成功！</phrase>
+	<phrase data="_MOD_PF_SUB7">项目布局</phrase>
+	<phrase data="_MOD_PF_SUB">项目管理</phrase>
+	<phrase data="_MOD_PF_SUB5">每个类别页面的项目</phrase>
+	<phrase data="_MOD_PF_SUB6">每个主页的项目</phrase>
+	<phrase data="_MOD_PF_SUB13">最新项目</phrase>
+	<phrase data="_MOD_PF_TITLE">管理 CMS 投资组合模块</phrase>
+	<phrase data="_MOD_PF_NEWCAT">新类别</phrase>
+	<phrase data="_MOD_PF_NEWITM">新物品</phrase>
+	<phrase data="_MOD_PF_SUB3">投资组合类别</phrase>
+	<phrase data="_MOD_PF_CUPDATED">投资组合设置更新成功！</phrase>
+	<phrase data="_MOD_PF_SUB8">显示类别导航</phrase>
+	<phrase data="_MOD_PF_SUB10">仅显示精选</phrase>
+	<phrase data="_MOD_PF_SUB12">显示社交图标</phrase>
+	<phrase data="_MOD_PF_SUB9">显示排序选项</phrase>
+	<phrase data="_MOD_PF_UPDATECAT">更新类别</phrase>
+	<phrase data="_MOD_PF_UPDATEITM">更新项目</phrase>
+	<phrase data="_MOD_PF_NOPROJ">您还没有任何项目。请加...</phrase>
+</language>

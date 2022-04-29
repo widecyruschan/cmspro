@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_MOD_FAQ_TITLE2">添加问题</phrase>
+	<phrase data="_MOD_FAQ_CAT_ADDED_OK">类别 [NAME] 添加成功！</phrase>
+	<phrase data="_MOD_FAQ_CAT_DEL_OK">类别 [NAME] 已成功删除！</phrase>
+	<phrase data="_MOD_FAQ_CAT_UPDATE_OK">类别 [NAME] 更新成功！</phrase>
+	<phrase data="_MOD_FAQ_TITLE">常问问题。经理</phrase>
+	<phrase data="_MOD_FAQ_SUB3">常见问题类别</phrase>
+	<phrase data="_MOD_FAQ_SUB">经常问的问题</phrase>
+	<phrase data="_MOD_FAQ_INFO">最常见的问题</phrase>
+	<phrase data="_MOD_FAQ_SUB1">新类别</phrase>
+	<phrase data="_MOD_FAQ_NEW">新问题</phrase>
+	<phrase data="_MOD_FAQ_QUESTION">题</phrase>
+	<phrase data="_MOD_FAQ_ADDED">问题 [NAME] 添加成功！</phrase>
+	<phrase data="_MOD_FAQ_DEL_OK">问题 [NAME] 已成功删除！</phrase>
+	<phrase data="_MOD_FAQ_UPDATED">问题 [NAME] 更新成功！</phrase>
+	<phrase data="_MOD_FAQ_TITLE1">问题编辑</phrase>
+	<phrase data="_MOD_FAQ_NOFAQF">抱歉，我们还没有任何问题...</phrase>
+	<phrase data="_MOD_FAQ_SUB2">更新类别</phrase>
+	<phrase data="_MOD_FAQ_UPDATE">更新问题</phrase>
+	<phrase data="_MOD_FAQ_NOFAQS">你还没有任何问题。请加。</phrase>
+</language>

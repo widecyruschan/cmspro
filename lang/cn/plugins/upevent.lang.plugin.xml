@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_PLG_UE_NOEVENT">--- 请至少创建一个事件 ---</phrase>
+	<phrase data="_PLG_UE_TITLE1">管理即将举行的活动</phrase>
+	<phrase data="_PLG_UE_ERR">请至少选择一项活动</phrase>
+	<phrase data="_PLG_UE_SELECT">选择事件</phrase>
+	<phrase data="_PLG_UE_UPDATED">即将举行的活动配置更新成功！</phrase>
+</language>

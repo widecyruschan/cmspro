@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_PLG_PL_ADD1">添加新投票</phrase>
+	<phrase data="_PLG_PL_TITLE2">添加新投票</phrase>
+	<phrase data="_PLG_PL_ADD">添加投票</phrase>
+	<phrase data="_PLG_PL_ADD_Q">添加投票選項</phrase>
+	<phrase data="_PLG_PL_TITLE1">編輯投票問題</phrase>
+	<phrase data="_PLG_PL_SUB2">在這裡您可以添加新的民意調查。</phrase>
+	<phrase data="_PLG_PL_SUB3">在這裡您可以配置您的投票插件。</phrase>
+	<phrase data="_PLG_PL_SUB1">在這裡您可以更新您的投票問題。</phrase>
+	<phrase data="_PLG_PL_ACTIVE">激活投票</phrase>
+	<phrase data="_PLG_PL_TITLE3">管理 CMS 投票插件</phrase>
+	<phrase data="_PLG_PL_SUB4">新民意調查</phrase>
+	<phrase data="_PLG_PL_POLL">輪詢</phrase>
+	<phrase data="_PLG_PL_DEL_OK">投票 [NAME] 已成功刪除。</phrase>
+	<phrase data="_PLG_PL_ADDED">投票 [NAME] 問題添加成功！</phrase>
+	<phrase data="_PLG_PL_UPDATED">投票 [NAME] 問題更新成功！</phrase>
+	<phrase data="_PLG_PL_OPTIONS">投票選項</phrase>
+	<phrase data="_PLG_PL_QUESTION">投票問題</phrase>
+	<phrase data="_PLG_PL_THANKS">感謝投票</phrase>
+	<phrase data="_PLG_PL_TOTAL">總票數：</phrase>
+	<phrase data="_PLG_PL_UPDATE">更新投票</phrase>
+	<phrase data="_PLG_PL_VIEW">看法</phrase>
+	<phrase data="_PLG_PL_RESULT">查看結果</phrase>
+	<phrase data="_PLG_PL_VOTE">投票</phrase>
+	<phrase data="_PLG_PL_NOW">立即投票</phrase>
+	<phrase data="_PLG_PL_VOTES">選票</phrase>
+	<phrase data="_PLG_PL_NOPOLL">您還沒有任何民意調查。請加。</phrase>
+</language>

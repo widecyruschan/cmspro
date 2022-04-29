@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_MOD_CM_SUB4">批准</phrase>
+	<phrase data="_MOD_CM_AA">自動批准</phrase>
+	<phrase data="_MOD_CM_WORDS">列入黑名單的詞</phrase>
+	<phrase data="_MOD_CM_CHAR">字數限制</phrase>
+	<phrase data="_MOD_CM_DEL_OK">評論 [NAME] 已成功刪除！</phrase>
+	<phrase data="_MOD_CM_TITLE1">評論配置</phrase>
+	<phrase data="_MOD_CM_PERPAGE">每頁評論數</phrase>
+	<phrase data="_MOD_CM_CUPDATED">評論設置更新成功！</phrase>
+	<phrase data="_MOD_CM_SORTING">評論排序</phrase>
+	<phrase data="_MOD_CM_DATE">日期格式</phrase>
+	<phrase data="_MOD_CM_RATING">啟用評級</phrase>
+	<phrase data="_MOD_CM_SUB2">留下你的評論</phrase>
+	<phrase data="_MOD_CM_SORTING_B">最近/底部</phrase>
+	<phrase data="_MOD_CM_SORTING_T">最近/頂部</phrase>
+	<phrase data="_MOD_CM_UNAME_R">姓名 必填</phrase>
+	<phrase data="_MOD_CM_SUB">暫時沒有評論...</phrase>
+	<phrase data="_MOD_CM_SUB3">沒有待處理的評論...</phrase>
+	<phrase data="_MOD_CM_NOTIFY">通知</phrase>
+	<phrase data="_MOD_CM_TITLE2">待批評論</phrase>
+	<phrase data="_MOD_CM_REG_ONLY">公共訪問</phrase>
+	<phrase data="_MOD_CM_REPLAY">回复</phrase>
+	<phrase data="_MOD_CM_CAPTCHA">顯示驗證碼</phrase>
+	<phrase data="_MOD_CM_SUB1">抱歉，只有註冊並登錄的用戶才能發表評論。請登錄或註冊。</phrase>
+	<phrase data="_MOD_CM_MSGOK2">謝謝！您的評論已提交，正在等待驗證。</phrase>
+	<phrase data="_MOD_CM_MSGOK1">謝謝！您的評論已提交。</phrase>
+	<phrase data="_MOD_CM_TSINCE">使用時間自</phrase>
+	<phrase data="_MOD_CM_E_NOT_V">您的電子郵件地址不會被公開。</phrase>
+</language>

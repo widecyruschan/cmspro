@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_PLG_CRL_SUB2">添加新玩家</phrase>
+	<phrase data="_PLG_CRL_TITLE1">添加播放器</phrase>
+	<phrase data="_PLG_CRL_SUB7">自動播放</phrase>
+	<phrase data="_PLG_CRL_SUB9">居中</phrase>
+	<phrase data="_PLG_CRL_TITLE2">編輯播放器</phrase>
+	<phrase data="_PLG_CRL_SUB1">在這裡您可以配置您的輪播播放器插件。</phrase>
+	<phrase data="_PLG_CRL_SUB13">無限循環</phrase>
+	<phrase data="_PLG_CRL_SUB8">項目保證金</phrase>
+	<phrase data="_PLG_CRL_TITLE">管理 CMS 輪播播放器插件</phrase>
+	<phrase data="_PLG_CRL_NEW">新玩家</phrase>
+	<phrase data="_PLG_CRL_SUB10">懸停時暫停</phrase>
+	<phrase data="_PLG_CRL_ADDED_OK">玩家 [NAME] 添加成功！</phrase>
+	<phrase data="_PLG_CRL_DEL_OK">玩家 [NAME] 刪除成功！</phrase>
+	<phrase data="_PLG_CRL_UPDATE_OK">播放器 [NAME] 更新成功！</phrase>
+	<phrase data="_PLG_CRL_SUB14">響應項目</phrase>
+	<phrase data="_PLG_CRL_SUB12">顯示箭頭</phrase>
+	<phrase data="_PLG_CRL_SUB11">顯示點</phrase>
+	<phrase data="_PLG_CRL_NOPLAY">您還沒有任何播放器插件...</phrase>
+</language>

@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase section="Global" data="CHARSET">A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z</phrase>
+	<phrase section="Global" data="ABOUT">關於</phrase>
+	<phrase section="Global" data="ACCESS">使用權</phrase>
+	<phrase section="Global" data="ACTIONS">行動</phrase>
+	<phrase section="Global" data="ACTIVATE">啟用</phrase>
+	<phrase section="Global" data="ACTIVE">積極的</phrase>
+	<phrase section="Global" data="ADD">添加</phrase>
+	<phrase section="Global" data="ALERT">警報</phrase>
+	<phrase section="Global" data="ALL">全部</phrase>
+	<phrase section="Global" data="ALLSELL">全部選擇</phrase>
+	<phrase section="Global" data="PROCCESS_C_ERR">處理配置文件時出錯</phrase>
+	<phrase section="Global" data="SYSERROR">處理此請求時發生錯誤。請聯繫管理員。</phrase>
+	<phrase section="Global" data="APPROVE">批准</phrase>
+	<phrase section="Global" data="ARCHIVE">檔案</phrase>
+	<phrase section="Global" data="REQFIELD2">是必須的。</phrase>
+	<phrase section="Global" data="DELCONFIRM1">您確定要刪除此記錄嗎？</phrase>
+	<phrase section="Global" data="ASSETS">資產</phrase>
+	<phrase section="Global" data="AVATAR">虚拟形象</phrase>
+	<phrase section="Global" data="BACK">歸來</phrase>
+	<phrase section="Global" data="BGIMG">背景圖</phrase>
+	<phrase section="Global" data="BANNED">禁止</phrase>
+	<phrase section="Global" data="BROWSE">瀏覽...</phrase>
+	<phrase section="Global" data="BY">經過</phrase>
+	<phrase section="Global" data="CANCEL">取消</phrase>
+	<phrase section="Global" data="CAPTCHA">驗證碼</phrase>
+	<phrase section="Global" data="CATEGORIES">類別</phrase>
+	<phrase section="Global" data="CATEGORY">類別</phrase>
+	<phrase section="Global" data="CATSLUG">類別蛞蝓</phrase>
+	<phrase section="Global" data="CHECKOUT">查看</phrase>
+	<phrase section="Global" data="CHOOSE">選擇一個文件...</phrase>
+	<phrase section="Global" data="CLEAR">清除</phrase>
+	<phrase section="Global" data="CLOSE">關閉</phrase>
+	<phrase section="Global" data="COLOR">顏色</phrase>
+	<phrase section="Global" data="COMMENT">評論</phrase>
+	<phrase section="Global" data="COMMENTS">評論</phrase>
+	<phrase section="Global" data="COMPLETED">完全的</phrase>
+	<phrase section="Global" data="CONPASS">確認密碼</phrase>
+	<phrase section="Global" data="CONTENT">內容</phrase>
+	<phrase section="Global" data="CON_PAGE">內容頁</phrase>
+	<phrase section="Global" data="CONTINUE">繼續</phrase>
+	<phrase section="Global" data="CONTINUE_R">繼續閱讀</phrase>
+	<phrase section="Global" data="COPY">複製</phrase>
+	<phrase section="Global" data="COUNTRY_LIST">國家/地區列表</phrase>
+	<phrase section="Global" data="CREATED">已創建</phrase>
+	<phrase section="Global" data="CURRENCY">貨幣</phrase>
+	<phrase section="Global" data="CUT">切</phrase>
+	<phrase section="Global" data="DATE">日期</phrase>
+	<phrase section="Global" data="DEFAULT">默認</phrase>
+	<phrase section="Global" data="DELETE">刪除</phrase>
+	<phrase section="Global" data="DELETE_REC">刪除記錄</phrase>
+	<phrase section="Global" data="DELETED">刪除成功！</phrase>
+	<phrase section="Global" data="DESCRIPTION">描述</phrase>
+	<phrase section="Global" data="FIELD_R13">不等於 [VAL] 字段。</phrase>
+	<phrase section="Global" data="DONE">完畢</phrase>
+	<phrase section="Global" data="DOWNLOAD">下載</phrase>
+	<phrase section="Global" data="DOWNLOADS">下載</phrase>
+	<phrase section="Global" data="DUPLICATE">複製</phrase>
+	<phrase section="Global" data="EDIT">編輯</phrase>
+	<phrase section="Global" data="EDITOR">編輯</phrase>
+	<phrase section="Global" data="ERROR">錯誤</phrase>
+	<phrase section="Global" data="EXIT">出口</phrase>
+	<phrase section="Global" data="EXPORT">出口</phrase>
+	<phrase section="Global" data="EXT_LINK">外部鏈接</phrase>
+	<phrase section="Global" data="FIELD_R0">場地</phrase>
+	<phrase section="Global" data="REQFIELD1">標記的字段</phrase>
+	<phrase section="Global" data="FILE">文件</phrase>
+	<phrase section="Global" data="FILE_ERR">文件無法從臨時上傳文件夾移動到圖像文件夾。</phrase>
+	<phrase section="Global" data="FIND">尋找</phrase>
+	<phrase section="Global" data="FREE">自由</phrase>
+	<phrase section="Global" data="FROM">從</phrase>
+	<phrase section="Global" data="GATEWAY">網關</phrase>
+	<phrase section="Global" data="GO">去</phrase>
+	<phrase section="Global" data="HI_A">下午好</phrase>
+	<phrase section="Global" data="HI_E">晚上好</phrase>
+	<phrase section="Global" data="HI_M">早上好</phrase>
+	<phrase section="Global" data="GRID">網格</phrase>
+	<phrase section="Global" data="GUEST">客人</phrase>
+	<phrase section="Global" data="HELLO">你好</phrase>
+	<phrase section="Global" data="HELP">幫助</phrase>
+	<phrase section="Global" data="HI">你好，</phrase>
+	<phrase section="Global" data="HISTORY">歷史</phrase>
+	<phrase section="Global" data="HITS">命中</phrase>
+	<phrase section="Global" data="HOME">首頁</phrase>
+	<phrase section="Global" data="HORIZONTAL">水平的</phrase>
+	<phrase section="Global" data="IMAGE">圖片</phrase>
+	<phrase section="Global" data="IMAGES">圖片</phrase>
+	<phrase section="Global" data="IMPORT">進口</phrase>
+	<phrase section="Global" data="IN">在</phrase>
+	<phrase section="Global" data="INACTIVE">不活躍</phrase>
+	<phrase section="Global" data="INFO">信息</phrase>
+	<phrase section="Global" data="INSERT">插入</phrase>
+	<phrase section="Global" data="USERNAME_R3">在用戶名中發現無效字符。</phrase>
+	<phrase section="Global" data="FIELD_R4">是無效日期。</phrase>
+	<phrase section="Global" data="FIELD_R4_1">是無效時間。</phrase>
+	<phrase section="Global" data="FIELD_R3">是無效的。</phrase>
+	<phrase section="Global" data="FIELD_R17">不是信用卡號碼。</phrase>
+	<phrase section="Global" data="FIELD_R19">不是有效的十進制數。</phrase>
+	<phrase section="Global" data="FIELD_R18">不是有效的電子郵件地址。</phrase>
+	<phrase section="Global" data="FIELD_R16">不是有效的 IP。</phrase>
+	<phrase section="Global" data="FIELD_R14">不是有效的網址。</phrase>
+	<phrase section="Global" data="FIELD_R100">是必須的。</phrase>
+	<phrase section="Global" data="ITEM">物品</phrase>
+	<phrase section="Global" data="ITEMSLUG">物品蛞蝓</phrase>
+	<phrase section="Global" data="ITEMS">項目</phrase>
+	<phrase section="Global" data="LANGUAGE">語</phrase>
+	<phrase section="Global" data="LIKE">喜歡</phrase>
+	<phrase section="Global" data="LIKES">喜歡</phrase>
+	<phrase section="Global" data="LIST">列表</phrase>
+	<phrase section="Global" data="LOGIN">登錄</phrase>
+	<phrase section="Global" data="LOGIN_R1">登錄名和/或密碼與數據庫不匹配。</phrase>
+	<phrase section="Global" data="LOGIN_R7">登錄成功！正在重定向...</phrase>
+	<phrase section="Global" data="LOGOUT">登出</phrase>
+	<phrase section="Global" data="MAINIMAGE">主圖</phrase>
+	<phrase section="Global" data="MANAGE">管理</phrase>
+	<phrase section="Global" data="MAX_R1">最大限度</phrase>
+	<phrase section="Global" data="FIELD_R10">只能包含字母字符&amp;破折號。</phrase>
+	<phrase section="Global" data="FIELD_R8">只能包含字母字符 (a-z)。</phrase>
+	<phrase section="Global" data="FIELD_R9">只能包含字母數字字符。</phrase>
+	<phrase section="Global" data="FIELD_R5">只能包含數字字符。</phrase>
+	<phrase section="Global" data="FIELD_R6">只能包含數值。</phrase>
+	<phrase section="Global" data="MEMBER">成員</phrase>
+	<phrase section="Global" data="MEMBERSHIP">會員資格</phrase>
+	<phrase section="Global" data="MESSAGE">信息</phrase>
+	<phrase section="Global" data="METADESC">元描述</phrase>
+	<phrase section="Global" data="METAKEYS">元關鍵字</phrase>
+	<phrase section="Global" data="MIN_R1">最低限度</phrase>
+	<phrase section="Global" data="MODULE">模塊</phrase>
+	<phrase section="Global" data="MODULES">模塊</phrase>
+	<phrase section="Global" data="MOVE">移動</phrase>
+	<phrase section="Global" data="DELCONFIRM4">將 [NAME] 移至存檔？</phrase>
+	<phrase section="Global" data="MTOARCHIVE">移至存檔</phrase>
+	<phrase section="Global" data="MTOTRASH">移到廢紙簍</phrase>
+	<phrase section="Global" data="MOVTOA">移至存檔</phrase>
+	<phrase section="Global" data="MOVTOTR">已移至垃圾箱</phrase>
+	<phrase section="Global" data="MULTIPLE">多種的</phrase>
+	<phrase section="Global" data="NAME">名稱</phrase>
+	<phrase section="Global" data="FIELD_R2">長度必須是 [X] 個字符或更長。</phrase>
+	<phrase section="Global" data="FIELD_R1">長度必須是 [X] 個字符或更短。</phrase>
+	<phrase section="Global" data="FIELD_R7">長度必須正好是 [X] 個字符。</phrase>
+	<phrase section="Global" data="FIELD_R11">需要包含以下值之一：[VAL]</phrase>
+	<phrase section="Global" data="FIELD_R12">需要以 [VAL] 開頭</phrase>
+	<phrase section="Global" data="NEVER">絕不</phrase>
+	<phrase section="Global" data="NEWPASS">新密碼</phrase>
+	<phrase section="Global" data="NO">不</phrase>
+	<phrase section="Global" data="CONTENT_NOT_FOUND">在此頁面下找不到任何內容！。</phrase>
+	<phrase section="Global" data="NOFILE">沒有文件...</phrase>
+	<phrase section="Global" data="NONE">沒有任何</phrase>
+	<phrase section="Global" data="NOTPUBLISHED">未發表</phrase>
+	<phrase section="Global" data="NOPROCCESS">沒什麼可處理的！</phrase>
+	<phrase section="Global" data="SYSTEM_PROCCESS">沒什麼可處理的。</phrase>
+	<phrase section="Global" data="NOW">現在</phrase>
+	<phrase section="Global" data="of">的</phrase>
+	<phrase section="Global" data="OFF">離開</phrase>
+	<phrase section="Global" data="OK">行</phrase>
+	<phrase section="Global" data="ON">在</phrase>
+	<phrase section="Global" data="PAGE">頁</phrase>
+	<phrase section="Global" data="PASTE">粘貼</phrase>
+	<phrase section="Global" data="PENDING">待辦的</phrase>
+	<phrase section="Global" data="PROCCESS_ERR1">請填寫所有必填字段</phrase>
+	<phrase section="Global" data="SYSTEM_ERR">請填寫以下字段：</phrase>
+	<phrase section="Global" data="PROCCESS_ERR">請填寫以下必填字段：</phrase>
+	<phrase section="Global" data="NOTEVAR">請不要在 [ ] 之間更改值</phrase>
+	<phrase section="Global" data="USERNAME_R1">請輸入有效的用戶名</phrase>
+	<phrase section="Global" data="LOGIN_R5">請輸入有效的用戶名和密碼</phrase>
+	<phrase section="Global" data="PLUGIN">插入</phrase>
+	<phrase section="Global" data="PLUGINS">插件</phrase>
+	<phrase section="Global" data="POST">郵政</phrase>
+	<phrase section="Global" data="PREVIEW">預覽</phrase>
+	<phrase section="Global" data="PRICE">價格</phrase>
+	<phrase section="Global" data="PRIVACY">隱私政策</phrase>
+	<phrase section="Global" data="PROP">特性</phrase>
+	<phrase section="Global" data="PUBLIC">上市</phrase>
+	<phrase section="Global" data="PUBLISHED">發表</phrase>
+	<phrase section="Global" data="QTY">數量</phrase>
+	<phrase section="Global" data="QUANTITY">數量</phrase>
+	<phrase section="Global" data="RANGE">範圍</phrase>
+	<phrase section="Global" data="RATING">評分</phrase>
+	<phrase section="Global" data="REFRESH">刷新</phrase>
+	<phrase section="Global" data="REGISTER">登記</phrase>
+	<phrase section="Global" data="REGISTERED">掛號的</phrase>
+	<phrase section="Global" data="REMOVE">消除</phrase>
+	<phrase section="Global" data="DELCONFIRM6">從存檔中刪除 [NAME]？</phrase>
+	<phrase section="Global" data="RENAME">改名</phrase>
+	<phrase section="Global" data="REQUIRED">必需的</phrase>
+	<phrase section="Global" data="RESET">重啟</phrase>
+	<phrase section="Global" data="RESTORE">恢復</phrase>
+	<phrase section="Global" data="DELCONFIRM10">恢復[NAME]？</phrase>
+	<phrase section="Global" data="RFCOMPLETE">恢復原狀</phrase>
+	<phrase section="Global" data="RESFRTR">從垃圾中恢復</phrase>
+	<phrase section="Global" data="SAVE">保存</phrase>
+	<phrase section="Global" data="SAVECONFIG">保存配置</phrase>
+	<phrase section="Global" data="SEARCH">搜索</phrase>
+	<phrase section="Global" data="SECTION">部分</phrase>
+	<phrase section="Global" data="SELECT">選擇</phrase>
+	<phrase section="Global" data="SELALL">全選</phrase>
+	<phrase section="Global" data="SELIMG">選擇圖片</phrase>
+	<phrase section="Global" data="SELPIC">選擇照片</phrase>
+	<phrase section="Global" data="SELECTMULTI">選擇一些選項</phrase>
+	<phrase section="Global" data="SELECTED">已選中</phrase>
+	<phrase section="Global" data="SETTINGS">設置</phrase>
+	<phrase section="Global" data="SOCIAL">社交媒體</phrase>
+	<phrase section="Global" data="NOACCESS">抱歉，您沒有訪問此頁面的有效權限。</phrase>
+	<phrase section="Global" data="USERNAME_R4">抱歉，此用戶名已被佔用</phrase>
+	<phrase section="Global" data="SORTING">排序</phrase>
+	<phrase section="Global" data="SORTING_O">排序選項</phrase>
+	<phrase section="Global" data="STAFF">職員</phrase>
+	<phrase section="Global" data="STATUS">地位</phrase>
+	<phrase section="Global" data="SUBMIT">提交</phrase>
+	<phrase section="Global" data="SUBMITP">提交付款</phrase>
+	<phrase section="Global" data="SUCCESS">成功</phrase>
+	<phrase section="Global" data="SYSTEM_ERR1">系統錯誤！！檢測到無效值 -</phrase>
+	<phrase section="Global" data="TAG">標籤</phrase>
+	<phrase section="Global" data="TAGS">標籤</phrase>
+	<phrase section="Global" data="TAX">稅</phrase>
+	<phrase section="Global" data="DELCONFIRM3">該項目將在回收站中保留 30 天。要永久刪除它，請轉到廢紙簍並清空它。</phrase>
+	<phrase section="Global" data="PAGE_NOT_FOUND">您要查找的頁面可能已被刪除、名稱已更改或暫時不可用！</phrase>
+	<phrase section="Global" data="DELCONFIRM2">此操作無法撤消！！！</phrase>
+	<phrase section="Global" data="DELCONFIRM8">這一行動將使公司恢復到原來的狀態。</phrase>
+	<phrase section="Global" data="DELCONFIRM11">此操作會將項目恢復到其原始狀態。</phrase>
+	<phrase section="Global" data="DELCONFIRM7">此操作會將用戶恢復到原始狀態。</phrase>
+	<phrase section="Global" data="DELCONFIRM5">這會將用戶保留在您的 CMS PRO 中，但會阻止他們登錄。</phrase>
+	<phrase section="Global" data="THUMB_H">縮略圖高度</phrase>
+	<phrase section="Global" data="THUMB_W">縮略圖寬度</phrase>
+	<phrase section="Global" data="TIME">時間</phrase>
+	<phrase section="Global" data="TITLE">標題</phrase>
+	<phrase section="Global" data="TO">到</phrase>
+	<phrase section="Global" data="LOGIN_R6">登錄嘗試次數過多。請在下次嘗試登錄前等待 [MINUTES] 分鐘。</phrase>
+	<phrase section="Global" data="TRANSACTION">交易</phrase>
+	<phrase section="Global" data="TRASH">垃圾</phrase>
+	<phrase section="Global" data="TYPE">類型</phrase>
+	<phrase section="Global" data="SEARCH2">輸入並按回車...</phrase>
+	<phrase section="Global" data="UPDATE">更新</phrase>
+	<phrase section="Global" data="UPDATED">更新成功！</phrase>
+	<phrase section="Global" data="UPLOAD">上傳</phrase>
+	<phrase section="Global" data="FIELD_R15">網址不存在。</phrase>
+	<phrase section="Global" data="USER">用戶</phrase>
+	<phrase section="Global" data="USER_A">用戶活躍</phrase>
+	<phrase section="Global" data="USER_B">禁止用戶</phrase>
+	<phrase section="Global" data="USER_I">用戶不活躍</phrase>
+	<phrase section="Global" data="USER_P">用戶待定</phrase>
+	<phrase section="Global" data="USERNAME">用戶名</phrase>
+	<phrase section="Global" data="USERNAME_R2">用戶名太短（少於 4 個字符）。</phrase>
+	<phrase section="Global" data="VERTICAL">垂直的</phrase>
+	<phrase section="Global" data="VIEW">看法</phrase>
+	<phrase section="Global" data="USERNAME_R5">很抱歉，我們的數據庫中不存在所選用戶名</phrase>
+	<phrase section="Global" data="WELCOME">歡迎 </phrase>
+	<phrase section="Global" data="WELCOMEBACK">歡迎歸來</phrase>
+	<phrase section="Global" data="WORKING">在職的....</phrase>
+	<phrase section="Global" data="YES">是的</phrase>
+	<phrase section="Global" data="AGREE">是的，我同意隱私政策</phrase>
+	<phrase section="Global" data="YOUAREHERE">你在這裡</phrase>
+	<phrase section="Global" data="SYSTEM_ERR2">您無權訪問此頁面。</phrase>
+	<phrase section="Global" data="LOGIN_R4">您需要驗證您的電子郵件地址。</phrase>
+	<phrase section="Global" data="LOGIN_R2">您的帳戶已被禁止。</phrase>
+	<phrase section="Global" data="LOGIN_R3">您的帳戶未激活。</phrase>
+	<phrase section="Localization" data="_DAY">日</phrase>
+	<phrase section="Localization" data="_DAYS">天</phrase>
+	<phrase section="Localization" data="_HOUR">小時</phrase>
+	<phrase section="Localization" data="_HOURS">小時</phrase>
+	<phrase section="Localization" data="_MINUTE">分鐘</phrase>
+	<phrase section="Localization" data="_MINUTES">分鐘</phrase>
+	<phrase section="Localization" data="_MONTH">月</phrase>
+	<phrase section="Localization" data="_MONTHS">幾個月</phrase>
+	<phrase section="Localization" data="_SECOND">第二</phrase>
+	<phrase section="Localization" data="_SECONDS">秒</phrase>
+	<phrase section="Localization" data="_WEEK">星期</phrase>
+	<phrase section="Localization" data="_WEEKS">週</phrase>
+	<phrase section="Localization" data="_YEAR">年</phrase>
+	<phrase section="Localization" data="_YEARS">年</phrase>
+	<phrase section="Localization" data="AGO">前</phrase>
+	<phrase section="Localization" data="JUSTNOW">現在</phrase>
+	<phrase section="Localization" data="APR">四月</phrase>
+	<phrase section="Localization" data="APR_L">四月</phrase>
+	<phrase section="Localization" data="AUG">八月</phrase>
+	<phrase section="Localization" data="AUG_L">八月</phrase>
+	<phrase section="Localization" data="DEC">十二月</phrase>
+	<phrase section="Localization" data="DEC_L">十二月</phrase>
+	<phrase section="Localization" data="FEB">二月</phrase>
+	<phrase section="Localization" data="FEB_L">二月</phrase>
+	<phrase section="Localization" data="FRI">神父</phrase>
+	<phrase section="Localization" data="FRI_L">星期五</phrase>
+	<phrase section="Localization" data="FRI_M">週五</phrase>
+	<phrase section="Localization" data="JAN">簡</phrase>
+	<phrase section="Localization" data="JAN_L">一月</phrase>
+	<phrase section="Localization" data="JUL">七月</phrase>
+	<phrase section="Localization" data="JUL_L">七月</phrase>
+	<phrase section="Localization" data="JUN">Jun</phrase>
+	<phrase section="Localization" data="JUN_L">六月</phrase>
+	<phrase section="Localization" data="MAR">海</phrase>
+	<phrase section="Localization" data="MAR_L">行進</phrase>
+	<phrase section="Localization" data="MAY">可能</phrase>
+	<phrase section="Localization" data="MAY_L">可能</phrase>
+	<phrase section="Localization" data="MON">莫</phrase>
+	<phrase section="Localization" data="MON_L">週一</phrase>
+	<phrase section="Localization" data="MON_M">我的</phrase>
+	<phrase section="Localization" data="NOV">十一月</phrase>
+	<phrase section="Localization" data="NOV_L">十一月</phrase>
+	<phrase section="Localization" data="OCT">十月</phrase>
+	<phrase section="Localization" data="OCT_L">十月</phrase>
+	<phrase section="Localization" data="SAT">到</phrase>
+	<phrase section="Localization" data="SAT_L">週六</phrase>
+	<phrase section="Localization" data="SAT_M">星期六</phrase>
+	<phrase section="Localization" data="SEP">九月</phrase>
+	<phrase section="Localization" data="SEP_L">九月</phrase>
+	<phrase section="Localization" data="SUN">他的</phrase>
+	<phrase section="Localization" data="SUN_L">星期日</phrase>
+	<phrase section="Localization" data="SUN_M">太陽</phrase>
+	<phrase section="Localization" data="THIS_MONTH">這個月</phrase>
+	<phrase section="Localization" data="THIS_WEEK">本星期</phrase>
+	<phrase section="Localization" data="THIS_YEAR">今年</phrase>
+	<phrase section="Localization" data="NEXT_MONTH">下個月</phrase>
+	<phrase section="Localization" data="NEXT_WEEK">下週</phrase>
+	<phrase section="Localization" data="TNEX_YEAR">明年</phrase>
+	<phrase section="Localization" data="LAST_MONTH">上個月</phrase>
+	<phrase section="Localization" data="LAST_WEEK">上星期</phrase>
+	<phrase section="Localization" data="LAST_YEAR">去年</phrase>
+	<phrase section="Localization" data="THU">釷</phrase>
+	<phrase section="Localization" data="THU_L">週四</phrase>
+	<phrase section="Localization" data="THU_M">蒐集</phrase>
+	<phrase section="Localization" data="TODAY">今天</phrase>
+	<phrase section="Localization" data="TOMORROW">明天</phrase>
+	<phrase section="Localization" data="TUE">你</phrase>
+	<phrase section="Localization" data="TUE_L">週二</phrase>
+	<phrase section="Localization" data="TUE_M">你的</phrase>
+	<phrase section="Localization" data="WED">我們</phrase>
+	<phrase section="Localization" data="WED_L">週三</phrase>
+	<phrase section="Localization" data="WED_M">星期三</phrase>
+	<phrase section="Localization" data="YESTERDAY">昨天</phrase>
+	<phrase section="Accounts" data="M_ADDED">帳戶 [NAME] 創建成功。</phrase>
+	<phrase section="Accounts" data="M_ADDRESS">地址</phrase>
+	<phrase section="Accounts" data="M_CITY">城市</phrase>
+	<phrase section="Accounts" data="M_COUNTRY">國家/地區</phrase>
+	<phrase section="Accounts" data="M_EMAIL">電子郵件地址</phrase>
+	<phrase section="Accounts" data="M_EMAIL_R1">請輸入有效的電子郵件地址</phrase>
+	<phrase section="Accounts" data="M_EMAIL_R2">輸入的電子郵件地址已被使用。</phrase>
+	<phrase section="Accounts" data="M_EMAIL_R3">輸入的電子郵件地址無效。</phrase>
+	<phrase section="Accounts" data="M_EMAIL_R4">輸入的電子郵件地址不存在。</phrase>
+	<phrase section="Accounts" data="M_EMAIL_R5">無效的郵件地址。</phrase>
+	<phrase section="Accounts" data="M_EMAIL1">電子郵件</phrase>
+	<phrase section="Accounts" data="M_FNAME">名</phrase>
+	<phrase section="Accounts" data="M_INF01">編輯角色描述</phrase>
+	<phrase section="Accounts" data="M_INFO">單擊訪問標籤以授予/拒絕訪問選項。</phrase>
+	<phrase section="Accounts" data="M_INFO10">檢測到無效的電子郵件和/或令牌。</phrase>
+	<phrase section="Accounts" data="M_INFO11">創建您的帳戶時出現問題。請聯繫網站管理員。</phrase>
+	<phrase section="Accounts" data="M_INFO12">您已成功激活 [NAME]。</phrase>
+	<phrase section="Accounts" data="M_INFO13">您可以在此處選擇和激活會員訪問權限。</phrase>
+	<phrase section="Accounts" data="M_INFO14">在這裡您可以查看您的會員購買歷史。</phrase>
+	<phrase section="Accounts" data="M_INFO15">您可以在此處更新您的個人資料設置。</phrase>
+	<phrase section="Accounts" data="M_INFO2">角色描述更新成功。</phrase>
+	<phrase section="Accounts" data="M_INFO3">您目前沒有任何會員...</phrase>
+	<phrase section="Accounts" data="M_INFO4">您想向 [NAME] 重新發送電子郵件通知嗎？</phrase>
+	<phrase section="Accounts" data="M_INFO5">通知已成功重新發送。</phrase>
+	<phrase section="Accounts" data="M_INFO6">您還沒有任何用戶。請加....</phrase>
+	<phrase section="Accounts" data="M_INFO7">您已成功完成註冊。請檢查您的電子郵件以驗證您的帳戶。</phrase>
+	<phrase section="Accounts" data="M_INFO8">您已成功完成註冊。重定向到登錄頁面。</phrase>
+	<phrase section="Accounts" data="M_INFO9">您已成功驗證您的電子郵件。</phrase>
+	<phrase section="Accounts" data="M_INFO9_1">繼續登錄...</phrase>
+	<phrase section="Accounts" data="M_INVOICE">發票</phrase>
+	<phrase section="Accounts" data="M_JOINED">加入</phrase>
+	<phrase section="Accounts" data="M_LASTIP">登錄IP</phrase>
+	<phrase section="Accounts" data="M_LASTLOGIN">上次登錄</phrase>
+	<phrase section="Accounts" data="M_LASTSEEN">最後一次露面</phrase>
+	<phrase section="Accounts" data="M_LNAME">姓</phrase>
+	<phrase section="Accounts" data="M_MYACCOUNT">我的帳戶</phrase>
+	<phrase section="Accounts" data="M_PASSMATCH">密碼不匹配。</phrase>
+	<phrase section="Accounts" data="M_PASSUPD_OK">密碼更新成功。</phrase>
+	<phrase section="Accounts" data="M_PASSUPD_OK2">密碼更新成功。重定向到登錄。</phrase>
+	<phrase section="Accounts" data="M_PASSUPDATE">更新密碼</phrase>
+	<phrase section="Accounts" data="M_PASSWORD">密碼</phrase>
+	<phrase section="Accounts" data="M_PASSWORD_L">忘記密碼</phrase>
+	<phrase section="Accounts" data="M_PASSWORD_R1">請輸入有效密碼。</phrase>
+	<phrase section="Accounts" data="M_PASSWORD_R2">輸入的密碼不是字母數字。</phrase>
+	<phrase section="Accounts" data="M_PASSWORD_RES">重設密碼</phrase>
+	<phrase section="Accounts" data="M_PASSWORD_RES_D">密碼發送成功。請查看你的郵箱！</phrase>
+	<phrase section="Accounts" data="M_PASSWORD_RES_S">密碼重置自</phrase>
+	<phrase section="Accounts" data="M_PASSWORD_RES_T">為了重置您的密碼，請輸入您用於註冊帳戶的上述電子郵件地址。</phrase>
+	<phrase section="Accounts" data="M_PASSWORD_T">除非更改密碼，否則將其留空。</phrase>
+	<phrase section="Accounts" data="M_PASSWORD_T2">密碼必須至少有6個字符長。</phrase>
+	<phrase section="Accounts" data="M_PHONE">電話</phrase>
+	<phrase section="Accounts" data="M_SELU">選擇用戶</phrase>
+	<phrase section="Accounts" data="M_SELUS">選擇用戶</phrase>
+	<phrase section="Accounts" data="M_STATE">省/州</phrase>
+	<phrase section="Accounts" data="M_SUB1">在這裡您可以更新您的個人帳戶信息。</phrase>
+	<phrase section="Accounts" data="M_SUB10">通訊訂閱者</phrase>
+	<phrase section="Accounts" data="M_SUB11">用戶備註</phrase>
+	<phrase section="Accounts" data="M_SUB12">您可以在此處添加新的用戶帳戶。</phrase>
+	<phrase section="Accounts" data="M_SUB13">發送電子郵件通知</phrase>
+	<phrase section="Accounts" data="M_SUB14">回到登入</phrase>
+	<phrase section="Accounts" data="M_SUB15">擴展會員資格</phrase>
+	<phrase section="Accounts" data="M_SUB16">用戶資料</phrase>
+	<phrase section="Accounts" data="M_SUB17">模塊訪問</phrase>
+	<phrase section="Accounts" data="M_SUB18">插件訪問</phrase>
+	<phrase section="Accounts" data="M_SUB19">登錄以管理您的帳戶。</phrase>
+	<phrase section="Accounts" data="M_SUB2">更改密碼</phrase>
+	<phrase section="Accounts" data="M_SUB20">沒有帳戶？</phrase>
+	<phrase section="Accounts" data="M_SUB21">在此註冊</phrase>
+	<phrase section="Accounts" data="M_SUB22">重置您的密碼</phrase>
+	<phrase section="Accounts" data="M_SUB23">填寫表格以開始。</phrase>
+	<phrase section="Accounts" data="M_SUB24">完成註冊</phrase>
+	<phrase section="Accounts" data="M_SUB25">使用。。。支付</phrase>
+	<phrase section="Accounts" data="M_SUB26">採購摘要</phrase>
+	<phrase section="Accounts" data="M_SUB27">忘了你的</phrase>
+	<phrase section="Accounts" data="M_SUB27_1">密碼？</phrase>
+	<phrase section="Accounts" data="M_SUB28">請在下方輸入您的電子郵件地址，我們會讓您重回正軌。</phrase>
+	<phrase section="Accounts" data="M_SUB29">請求重置鏈接</phrase>
+	<phrase section="Accounts" data="M_SUB3">您可以在此處管理站點工作人員的角色和權限。</phrase>
+	<phrase section="Accounts" data="M_SUB30">歡迎來到</phrase>
+	<phrase section="Accounts" data="M_SUB31">已經有一個帳戶？</phrase>
+	<phrase section="Accounts" data="M_SUB32">嘿，我是</phrase>
+	<phrase section="Accounts" data="M_SUB33">頁面訪問</phrase>
+	<phrase section="Accounts" data="M_SUB4">您可以在此處查看和管理當前選擇的 [ROLE] 角色的權限。</phrase>
+	<phrase section="Accounts" data="M_SUB5">在這裡您可以查看和管理您的會員。</phrase>
+	<phrase section="Accounts" data="M_SUB6">重發電子郵件</phrase>
+	<phrase section="Accounts" data="M_SUB7">在這裡您可以更新用戶個人帳戶信息。</phrase>
+	<phrase section="Accounts" data="M_SUB8">更改會員資格</phrase>
+	<phrase section="Accounts" data="M_SUB9">用戶類型</phrase>
+	<phrase section="Accounts" data="M_TITLE">賬戶信息</phrase>
+	<phrase section="Accounts" data="M_TITLE1">角色管理</phrase>
+	<phrase section="Accounts" data="M_TITLE2">權限管理</phrase>
+	<phrase section="Accounts" data="M_TITLE3">會員概覽</phrase>
+	<phrase section="Accounts" data="M_TITLE4">編輯用戶</phrase>
+	<phrase section="Accounts" data="M_TITLE5">添加用戶</phrase>
+	<phrase section="Accounts" data="M_TRASH_OK">用戶 [NAME] 已成功移至回收站。</phrase>
+	<phrase section="Accounts" data="M_UPDATE">更新賬戶</phrase>
+	<phrase section="Accounts" data="M_UPDATED">帳戶 [NAME] 已成功更新。</phrase>
+	<phrase section="Accounts" data="M_ZIP">郵編/ Zip</phrase>
+	<phrase section="Admin Menus" data="ADM_BACKUP">備份</phrase>
+	<phrase section="Admin Menus" data="ADM_CONTENT">內容</phrase>
+	<phrase section="Admin Menus" data="ADM_CNTR">國家或地區</phrase>
+	<phrase section="Admin Menus" data="ADM_CFIELDS">自定義字段</phrase>
+	<phrase section="Admin Menus" data="ADM_COUPONS">優惠券</phrase>
+	<phrase section="Admin Menus" data="ADM_DASH">儀表板</phrase>
+	<phrase section="Admin Menus" data="ADM_EMTPL">電子郵件模板</phrase>
+	<phrase section="Admin Menus" data="ADM_FM">文件管理器</phrase>
+	<phrase section="Admin Menus" data="ADM_GATE">付款方式</phrase>
+	<phrase section="Admin Menus" data="ADM_NEWSL">通訊</phrase>
+	<phrase section="Admin Menus" data="ADM_LAYOUT">佈局</phrase>
+	<phrase section="Admin Menus" data="ADM_LNGMNG">語言</phrase>
+	<phrase section="Admin Menus" data="ADM_LOGS">日誌管理器</phrase>
+	<phrase section="Admin Menus" data="ADM_MEMBS">會員資格</phrase>
+	<phrase section="Admin Menus" data="ADM_MENUS">菜單</phrase>
+	<phrase section="Admin Menus" data="ADM_PAGES">頁面</phrase>
+	<phrase section="Admin Menus" data="ADM_PERMS">權限</phrase>
+	<phrase section="Admin Menus" data="ADM_SYSINFO">系統信息</phrase>
+	<phrase section="Admin Menus" data="ADM_CONFIG">配置</phrase>
+	<phrase section="Admin Menus" data="ADM_SYSTEM">系統配置</phrase>
+	<phrase section="Admin Menus" data="ADM_TRANS">交易</phrase>
+	<phrase section="Admin Menus" data="ADM_UTIL">實用程序</phrase>
+	<phrase section="Admin Menus" data="ADM_TRASH">垃圾</phrase>
+	<phrase section="Admin Menus" data="ADM_USERS">用戶</phrase>
+	<phrase section="Pages" data="PAG_ACCLVL">訪問權限</phrase>
+	<phrase section="Pages" data="PAG_ADDED_OK">頁面 [NAME] 添加成功。</phrase>
+	<phrase section="Pages" data="PAG_BODY">頁面內容</phrase>
+	<phrase section="Pages" data="PAG_CAPTION">頁面標題</phrase>
+	<phrase section="Pages" data="PAG_INFO">您目前沒有任何頁面...</phrase>
+	<phrase section="Pages" data="PAG_JSCODE">JavaScript 代碼</phrase>
+	<phrase section="Pages" data="PAG_MDLASS">分配模塊</phrase>
+	<phrase section="Pages" data="PAG_MDLNOASS">未分配模塊</phrase>
+	<phrase section="Pages" data="PAG_MDLCOMMENT">啟用評論</phrase>
+	<phrase section="Pages" data="PAG_NOHEAD">顯示標題</phrase>
+	<phrase section="Pages" data="PAG_MEMLVL">會員等級</phrase>
+	<phrase section="Pages" data="PAG_NAME">頁面名稱</phrase>
+	<phrase section="Pages" data="PAG_NOMEM_REQ">無需會員資格</phrase>
+	<phrase section="Pages" data="PAG_PGACC">賬戶頁面</phrase>
+	<phrase section="Pages" data="PAG_PGACCT">激活頁面</phrase>
+	<phrase section="Pages" data="PAG_PGADM">僅限管理員訪問</phrase>
+	<phrase section="Pages" data="PAG_PGCNT">聯繫表</phrase>
+	<phrase section="Pages" data="PAG_PGHOME">首頁</phrase>
+	<phrase section="Pages" data="PAG_PGLOGIN">登錄頁面</phrase>
+	<phrase section="Pages" data="PAG_PGNORMAL">普通頁面</phrase>
+	<phrase section="Pages" data="PAG_PGPUB">公開資料頁面</phrase>
+	<phrase section="Pages" data="PAG_PGRGST">註冊頁面</phrase>
+	<phrase section="Pages" data="PAG_PGSRH">搜索頁面</phrase>
+	<phrase section="Pages" data="PAG_PGSTMAP">站點地圖頁面</phrase>
+	<phrase section="Pages" data="PAG_SLUG">頁面蛞蝓</phrase>
+	<phrase section="Pages" data="PAG_SUB">在這裡您可以管理您的內容頁面。注意：刪除頁面也會刪除同一頁面下的佈局。</phrase>
+	<phrase section="Pages" data="PAG_SUB1">在這裡您可以更新您的內容頁面。</phrase>
+	<phrase section="Pages" data="PAG_SUB2">專用頁面</phrase>
+	<phrase section="Pages" data="PAG_SUB3">更新頁面</phrase>
+	<phrase section="Pages" data="PAG_SUB4">新的一頁</phrase>
+	<phrase section="Pages" data="PAG_SUB5">實時編輯器</phrase>
+	<phrase section="Pages" data="PAG_SUB6">頁麵類型</phrase>
+	<phrase section="Pages" data="PAG_TRASH_OK">頁面 [NAME] 已成功移至回收站。</phrase>
+	<phrase section="Pages" data="PAG_UPDATE_OK">頁面 [NAME] 已成功更新。</phrase>
+	<phrase section="Menus" data="MEN_ADDED_OK">菜單 [NAME] 添加成功。</phrase>
+	<phrase section="Menus" data="MEN_CAP">菜單標題</phrase>
+	<phrase section="Menus" data="MEN_COLS">菜單欄</phrase>
+	<phrase section="Menus" data="MEN_CTYPE">內容類型</phrase>
+	<phrase section="Menus" data="MEN_ICONS">菜單圖標</phrase>
+	<phrase section="Menus" data="MEN_NAME">菜單名稱</phrase>
+	<phrase section="Menus" data="MEN_PARENT">菜單父</phrase>
+	<phrase section="Menus" data="MEN_SUB">頂層</phrase>
+	<phrase section="Menus" data="MEN_SUB1">選擇內容類型</phrase>
+	<phrase section="Menus" data="MEN_SUB2">內容鏈接</phrase>
+	<phrase section="Menus" data="MEN_SUB3">添加菜單</phrase>
+	<phrase section="Menus" data="MEN_SUB4">更新菜單</phrase>
+	<phrase section="Menus" data="MEN_TARGET">target</phrase>
+	<phrase section="Menus" data="MEN_TARGET_B">_blank</phrase>
+	<phrase section="Menus" data="MEN_TARGET_L">鏈接目標</phrase>
+	<phrase section="Menus" data="MEN_TARGET_S">_self</phrase>
+	<phrase section="Menus" data="MEN_TARGET_T">以 http:// 開頭的網址</phrase>
+	<phrase section="Menus" data="MEN_TRASH_OK">菜單 [NAME] 已成功移至回收站。</phrase>
+	<phrase section="Menus" data="MEN_UPDATE_OK">菜單 [NAME] 已成功更新。</phrase>
+	<phrase section="Countries" data="CNT_TITLE">國家/地區管理</phrase>
+	<phrase section="Countries" data="CNT_INFO">在這裡您可以查看和管理國家/地區列表。單擊增值稅/稅收值進行編輯。</phrase>
+	<phrase section="Countries" data="CNT_ABBR">縮寫</phrase>
+	<phrase section="Countries" data="CNT_SELECT">選擇國家/地區</phrase>
+	<phrase section="Countries" data="CNT_DELOK">國家/地區 [NAME] 已成功刪除。</phrase>
+	<phrase section="Countries" data="CNT_EDIT">編輯國家/地區</phrase>
+	<phrase section="Countries" data="CNT_NOCOUNTRY">您還沒有任何國家/地區...</phrase>
+	<phrase section="Countries" data="CNT_UPDATE">更新國家/地區</phrase>
+	<phrase section="Countries" data="CNT_UPDATED">國家/地區 [NAME] 已成功更新。</phrase>
+	<phrase section="Discounts" data="DC_ADDED_OK">優惠券 [NAME] 添加成功。</phrase>
+	<phrase section="Discounts" data="DC_TITLE">折扣/優惠券</phrase>
+	<phrase section="Discounts" data="DC_SUB">在這裡您可以管理您的折扣/優惠券。</phrase>
+	<phrase section="Discounts" data="DC_CODE">優惠卷號碼</phrase>
+	<phrase section="Discounts" data="DC_CODE_I">輸入優惠券代碼...</phrase>
+	<phrase section="Discounts" data="DC_SUB1">新優惠券</phrase>
+	<phrase section="Discounts" data="DC_SUB2">更新優惠券</phrase>
+	<phrase section="Discounts" data="DC_SUB3">申請會員資格</phrase>
+	<phrase section="Discounts" data="DC_SUB4">折扣</phrase>
+	<phrase section="Discounts" data="DC_DISC">折扣金額</phrase>
+	<phrase section="Discounts" data="DC_TYPE">折扣類型</phrase>
+	<phrase section="Discounts" data="DC_NONDISC">您還沒有任何折扣/優惠券。請加...</phrase>
+	<phrase section="Discounts" data="DC_TYPE_A">固定值</phrase>
+	<phrase section="Discounts" data="DC_TYPE_P">百分比金額</phrase>
+	<phrase section="Discounts" data="DC_TRASH_OK">優惠券 [NAME] 已成功刪除。</phrase>
+	<phrase section="Discounts" data="DC_UPDATE_OK">優惠券 [NAME] 已成功更新。</phrase>
+	<phrase section="Memberships" data="MEM_ADDED_OK">成員資格 [NAME] 添加成功。</phrase>
+	<phrase section="Memberships" data="MEM_TITLE">會員套餐</phrase>
+	<phrase section="Memberships" data="MEM_NOMEM">您還沒有任何會員資格。請加...</phrase>
+	<phrase section="Memberships" data="MEM_SUB">在這裡您可以管理您的會員套餐。注意：確保您沒有刪除或停用分配給活動用戶的包。</phrase>
+	<phrase section="Memberships" data="MEM_SUB1">新會員</phrase>
+	<phrase section="Memberships" data="MEM_SUB2">更新會員資格</phrase>
+	<phrase section="Memberships" data="MEM_SUB3">需要會員資格</phrase>
+	<phrase section="Memberships" data="MEM_TRIAL">試用會員</phrase>
+	<phrase section="Memberships" data="MEM_PRIVATE">私人會員</phrase>
+	<phrase section="Memberships" data="MEM_REC">定期付款</phrase>
+	<phrase section="Memberships" data="MEM_REC1">再次發生的</phrase>
+	<phrase section="Memberships" data="MEM_EXP">到期</phrase>
+	<phrase section="Memberships" data="MEM_ACT">活性</phrase>
+	<phrase section="Memberships" data="MEM_PRICE">會員價</phrase>
+	<phrase section="Memberships" data="MEM_DAYS">會員期限</phrase>
+	<phrase section="Memberships" data="MEM_NAME">會員名稱</phrase>
+	<phrase section="Memberships" data="MEM_VALID">有效期至</phrase>
+	<phrase section="Memberships" data="MEM_TRASH_OK">成員資格 [NAME] 已成功移至回收站。</phrase>
+	<phrase section="Memberships" data="MEM_UPDATE_OK">成員資格 [NAME] 已成功更新。</phrase>
+	<phrase section="Newsletter" data="NL_FROM">電子郵件發件人</phrase>
+	<phrase section="Newsletter" data="NL_RCPT">收件人</phrase>
+	<phrase section="Newsletter" data="NL_INFO1">在這裡，您可以向所有用戶或時事通訊訂閱者發送時事通訊。</phrase>
+	<phrase section="Newsletter" data="NL_SUBJECT">電子郵件主題</phrase>
+	<phrase section="Newsletter" data="NL_ATTACH">依戀</phrase>
+	<phrase section="Newsletter" data="NL_TTITLE">系統通訊</phrase>
+	<phrase section="Newsletter" data="NL_BODY">電子郵件內容</phrase>
+	<phrase section="Newsletter" data="NL_SEND">發送電子郵件</phrase>
+	<phrase section="Newsletter" data="NL_UALL">全部用戶</phrase>
+	<phrase section="Newsletter" data="NL_UAREG">註冊會員</phrase>
+	<phrase section="Newsletter" data="NL_UPAID">付費會員</phrase>
+	<phrase section="Newsletter" data="NL_UNLS">通訊訂閱者</phrase>
+	<phrase section="Newsletter" data="NL_SENT">所有電子郵件都已成功發送！</phrase>
+	<phrase section="Newsletter" data="NL_ALERT">某些電子郵件無法聯繫到！</phrase>
+	<phrase section="Newsletter" data="NL_ERROR">到達目標電子郵件時出現問題。確保電子郵件地址正確。</phrase>
+	<phrase section="Transactions" data="TRX_PAY">付款</phrase>
+	<phrase section="Transactions" data="TRX_AVERAGE">平均銷售額</phrase>
+	<phrase section="Transactions" data="TRX_TAX">稅/增值稅</phrase>
+	<phrase section="Transactions" data="TRX_COUPON">優惠券</phrase>
+	<phrase section="Transactions" data="TRX_TOTAMT">總金額</phrase>
+	<phrase section="Transactions" data="TRX_AMOUNT">數量</phrase>
+	<phrase section="Transactions" data="TRX_SALES">銷售量</phrase>
+	<phrase section="Transactions" data="TRX_POPMEM">會員銷售</phrase>
+	<phrase section="Transactions" data="TRX_GRTOTAL">累計</phrase>
+	<phrase section="Transactions" data="TRX_SUBTOTAL">小計</phrase>
+	<phrase section="Transactions" data="TRX_PP">處理器</phrase>
+	<phrase section="Plugins" data="PLG_TITLE">管理插件</phrase>
+	<phrase section="Plugins" data="PLG_ADDED_OK">插件 [NAME] 添加成功。</phrase>
+	<phrase section="Plugins" data="PLG_SUB">在這裡您可以管理您的內容、用戶和系統插件。</phrase>
+	<phrase section="Plugins" data="PLG_SUB1">新插件</phrase>
+	<phrase section="Plugins" data="PLG_SUB2">更新插件</phrase>
+	<phrase section="Plugins" data="PLG_CLASS">附加課程</phrase>
+	<phrase section="Plugins" data="PLG_NOPLG">您目前沒有任何插件...</phrase>
+	<phrase section="Plugins" data="PLG_SHOWTITLE">顯示標題</phrase>
+	<phrase section="Plugins" data="PLG_TRASH_OK">插件 [NAME] 已成功移至回收站。</phrase>
+	<phrase section="Plugins" data="PLG_DEL_OK">插件 [NAME] 已成功刪除。</phrase>
+	<phrase section="Plugins" data="PLG_UPDATE_OK">插件 [NAME] 已成功更新。</phrase>
+	<phrase section="Modules" data="MDL_TITLE">管理模塊</phrase>
+	<phrase section="Modules" data="MDL_SUB">在這裡您可以管理您的 cms 模塊。</phrase>
+	<phrase section="Modules" data="MDL_SUB1">更新模塊</phrase>
+	<phrase section="Modules" data="MDL_NOMOD">您目前沒有任何模塊...</phrase>
+	<phrase section="Modules" data="MDL_DEL_OK">模塊 [NAME] 已成功刪除。</phrase>
+	<phrase section="Modules" data="MDL_UPDATE_OK">模塊 [NAME] 已成功更新。</phrase>
+	<phrase section="Gateway" data="GW_EDIT">編輯網關</phrase>
+	<phrase section="Gateway" data="GW_IPNURL">IPN 網址</phrase>
+	<phrase section="Gateway" data="GW_LIVE">設置實時模式</phrase>
+	<phrase section="Gateway" data="GW_NAME">網關名稱</phrase>
+	<phrase section="Gateway" data="GW_SUB">您可以在此處管理可用網關列表。</phrase>
+	<phrase section="Gateway" data="GW_SUB1">您可以在此處更新網關設置。</phrase>
+	<phrase section="Gateway" data="GW_TITLE">管理支付網關</phrase>
+	<phrase section="Gateway" data="GW_TITLE1">編輯支付網關</phrase>
+	<phrase section="Gateway" data="GW_UPDATE">更新網關</phrase>
+	<phrase section="Gateway" data="GW_UPDATED">網關 [NAME] 更新成功</phrase>
+	<phrase section="Pagination" data="CURPAGE">當前頁面</phrase>
+	<phrase section="Pagination" data="TOTAL">全部的</phrase>
+	<phrase section="Pagination" data="GOTO">去</phrase>
+	<phrase section="Pagination" data="IPP">每頁項目</phrase>
+	<phrase section="Pagination" data="NEXT">下一個</phrase>
+	<phrase section="Pagination" data="OF">的</phrase>
+	<phrase section="Pagination" data="PREV">上一頁</phrase>
+	<phrase section="Email Templates" data="ET_BACKUP">創建備份</phrase>
+	<phrase section="Email Templates" data="ET_DESC">描述</phrase>
+	<phrase section="Email Templates" data="ET_ERROR">加載模板文件時出錯</phrase>
+	<phrase section="Email Templates" data="ET_ERROR2">所選模板不存在。</phrase>
+	<phrase section="Email Templates" data="ET_INFO">您的電子郵件模板似乎丟失了。請重新安裝。</phrase>
+	<phrase section="Email Templates" data="ET_NAME">模板名稱</phrase>
+	<phrase section="Email Templates" data="ET_SUB">在這裡您可以設計/更新現有的郵件模板。</phrase>
+	<phrase section="Email Templates" data="ET_SUBJECT">主題</phrase>
+	<phrase section="Email Templates" data="ET_TITLE">管理 Cms 電子郵件模板</phrase>
+	<phrase section="Email Templates" data="ET_TITLE2">編輯模板</phrase>
+	<phrase section="Email Templates" data="ET_UPDATE">更新模板</phrase>
+	<phrase section="Email Templates" data="ET_UPDATED">模板 [NAME] 已成功更新。</phrase>
+	<phrase section="Language Manager" data="LG_ABBR">國家/地區縮寫</phrase>
+	<phrase section="Language Manager" data="LG_AUTHOR">作者</phrase>
+	<phrase section="Language Manager" data="LG_COLOR">語言顏色</phrase>
+	<phrase section="Language Manager" data="LG_KEY">鑰匙</phrase>
+	<phrase section="Language Manager" data="LG_NAME">語言名稱</phrase>
+	<phrase section="Language Manager" data="LG_RESET">重置組過濾器</phrase>
+	<phrase section="Language Manager" data="LG_SUB">在這裡您可以管理您的語言。注意：刪除語言也會刪除所有包含已刪除語言翻譯的數據庫表。請耐心等待，因為此過程可能需要幾秒鐘才能完成。</phrase>
+	<phrase section="Language Manager" data="LG_SUB1">編輯語言</phrase>
+	<phrase section="Language Manager" data="LG_SUB2">在這裡您可以更新您的語言短語。注意：不要替換 [ ] 之間的變量。單擊值名稱進行編輯。</phrase>
+	<phrase section="Language Manager" data="LG_SUB3">主要語言</phrase>
+	<phrase section="Language Manager" data="LG_SUB4">短語部分</phrase>
+	<phrase section="Language Manager" data="LG_SUB5">新語言</phrase>
+	<phrase section="Language Manager" data="LG_INFO">您不能刪除默認語言。</phrase>
+	<phrase section="Language Manager" data="LG_TITLE">管理 CMS 語言</phrase>
+	<phrase section="Language Manager" data="LG_TITLE1">語言短語</phrase>
+	<phrase section="Language Manager" data="LG_UPDATE">更新語言</phrase>
+	<phrase section="Language Manager" data="LG_UPDATE_OK">語言 [NAME] 已成功更新。</phrase>
+	<phrase section="Language Manager" data="LG_ADDED_OK">語言 [NAME] 添加成功。</phrase>
+	<phrase section="Language Manager" data="LG_DEL_OK">語言 [NAME] 已成功刪除。</phrase>
+	<phrase section="Language Manager" data="LG_VALUE">價值</phrase>
+	<phrase section="Database" data="DBM_ADD">創建備份</phrase>
+	<phrase section="Database" data="DBM_BKP_ERR">創建備份時出錯。</phrase>
+	<phrase section="Database" data="DBM_BKP_OK">備份創建成功！</phrase>
+	<phrase section="Database" data="DBM_DEL">刪除數據庫備份</phrase>
+	<phrase section="Database" data="DBM_DEL_OK">備份 [NAME] 已成功刪除！</phrase>
+	<phrase section="Database" data="DBM_INFO">確保您的數據庫經常備份。單擊創建備份以手動備份您的數據庫。備份存儲在 [/uploads/backups/] 文件夾中，可以從下面的列表中下載。您最近的備份會突出顯示。確保下載最新的備份，然後刪除其餘的。</phrase>
+	<phrase section="Database" data="DBM_RES">恢復數據庫</phrase>
+	<phrase section="Database" data="DBM_RES_OK">數據庫 [NAME] 已成功恢復！</phrase>
+	<phrase section="Database" data="DBM_RES_T">您確定要恢復數據庫嗎？</phrase>
+	<phrase section="Database" data="DBM_SUB">查看備份</phrase>
+	<phrase section="Database" data="DBM_TITLE">數據庫維護</phrase>
+	<phrase section="System Info" data="SYS_CMS_INF">內容管理系統信息</phrase>
+	<phrase section="System Info" data="SYS_CMS_VER">內容管理系統版本</phrase>
+	<phrase section="System Info" data="SYS_DBOPTIMIZED">優化</phrase>
+	<phrase section="System Info" data="SYS_DBOPTIMIZING">優化</phrase>
+	<phrase section="System Info" data="SYS_DBREPAIRED">已修復</phrase>
+	<phrase section="System Info" data="SYS_DBREPAIRING">維修</phrase>
+	<phrase section="System Info" data="SYS_DBSTATUS">地位</phrase>
+	<phrase section="System Info" data="SYS_DBTABLE">桌子</phrase>
+	<phrase section="System Info" data="SYS_DBTABLE_INF">數據庫表</phrase>
+	<phrase section="System Info" data="SYS_DBV">服務器數據庫版本</phrase>
+	<phrase section="System Info" data="SYS_DEF_LANG">默認語言</phrase>
+	<phrase section="System Info" data="SYS_GD_VER">廣東版</phrase>
+	<phrase section="System Info" data="SYS_INFO">下面顯示的信息是從多個位置收集的，並在此處進行了匯總，以便您在嘗試診斷問題或請求有關 CMS PRO v.[VER] 安裝的幫助時可以方便地找到一些所需的信息。</phrase>
+	<phrase section="System Info" data="SYS_LOG_ERR">記錄錯誤</phrase>
+	<phrase section="System Info" data="SYS_MEM_LIM">內存限制</phrase>
+	<phrase section="System Info" data="SYS_MEMALO">最大分配內存</phrase>
+	<phrase section="System Info" data="SYS_MQR">運行時的魔術引號</phrase>
+	<phrase section="System Info" data="SYS_PHP_INF">PHP信息</phrase>
+	<phrase section="System Info" data="SYS_PHP_INFO">PHP信息</phrase>
+	<phrase section="System Info" data="SYS_PHP_VER">當前 PHP 版本</phrase>
+	<phrase section="System Info" data="SYS_PMF">發布最大。文件大小</phrase>
+	<phrase section="System Info" data="SYS_RG">註冊全球</phrase>
+	<phrase section="System Info" data="SYS_ROOT_PATH">根路徑</phrase>
+	<phrase section="System Info" data="SYS_ROOT_URL">根網址</phrase>
+	<phrase section="System Info" data="SYS_SER_API">API 服務器</phrase>
+	<phrase section="System Info" data="SYS_SER_DB">服務器數據庫</phrase>
+	<phrase section="System Info" data="SYS_SER_INF">服務器信息</phrase>
+	<phrase section="System Info" data="SYS_SER_MR">Apache Mod 重寫</phrase>
+	<phrase section="System Info" data="SYS_SER_OS">服務器操作系統</phrase>
+	<phrase section="System Info" data="SYS_SERVER_INFO">服務器信息</phrase>
+	<phrase section="System Info" data="SYS_SM">安全模式</phrase>
+	<phrase section="System Info" data="SYS_SSP">會話保存路徑</phrase>
+	<phrase section="System Info" data="SYS_STS">服務器總空間</phrase>
+	<phrase section="System Info" data="SYS_SUB">查看系統信息</phrase>
+	<phrase section="System Info" data="SYS_TITLE">系統信息</phrase>
+	<phrase section="System Info" data="SYS_UMF">上傳最大。文件大小</phrase>
+	<phrase section="System Info" data="SYS_UPL_PATH">上傳路徑</phrase>
+	<phrase section="System Info" data="SYS_UPL_URL">上傳網址</phrase>
+	<phrase section="System Info" data="SYS_ADMVIEW">管理員視圖</phrase>
+	<phrase section="System Utilities" data="UTL_TITLE">系統實用程序</phrase>
+	<phrase section="System Utilities" data="UTL_INFO">在這裡您可以執行站點維護，例如刪除非活動和禁止用戶、創建 xml 站點地圖以及管理模塊 slug。</phrase>
+	<phrase section="System Utilities" data="UTL_INFO1">在這裡，您可以在不編輯 css 文件的情況下更新主題顏色。</phrase>
+	<phrase section="System Utilities" data="UTL_SUB1">刪除非活動用戶</phrase>
+	<phrase section="System Utilities" data="UTL_SUB1_T">這將刪除在選定天數內未登錄站點的所有用戶（不是管理員）。它不會刪除用戶等待驗證過程。</phrase>
+	<phrase section="System Utilities" data="UTL_SUB2">刪除待定用戶</phrase>
+	<phrase section="System Utilities" data="UTL_SUB2_T">這將刪除所有 [NUMBER] 個等待驗證過程的用戶。</phrase>
+	<phrase section="System Utilities" data="UTL_SUB3">刪除禁止用戶</phrase>
+	<phrase section="System Utilities" data="UTL_SUB3_T">這將刪除所有 [NUMBER] 個被禁止的用戶。</phrase>
+	<phrase section="System Utilities" data="UTL_SUB4">生成站點地圖</phrase>
+	<phrase section="System Utilities" data="UTL_SUB4_T">生成可以提交給搜索引擎的站點地圖 xml 文件。文件將存儲在名為 sitemap.xml 的 CMS 根目錄中。</phrase>
+	<phrase section="System Utilities" data="UTL_SUB5">系統蛞蝓</phrase>
+	<phrase section="System Utilities" data="UTL_SUB5_T">重命名系統 slug。沒有空格，一個單詞，全部小寫。</phrase>
+	<phrase section="System Utilities" data="UTL_DAYS">非活動天數</phrase>
+	<phrase section="System Utilities" data="UTL_DELINACTIVE">刪除非活動</phrase>
+	<phrase section="System Utilities" data="UTL_DELPENDING">刪除待處理</phrase>
+	<phrase section="System Utilities" data="UTL_CART">清空購物車數據</phrase>
+	<phrase section="System Utilities" data="UTL_CART_T">這將清空購物車數據，用於存儲臨時用戶詳細信息。</phrase>
+	<phrase section="System Utilities" data="UTL_INSTALL">安裝</phrase>
+	<phrase section="System Utilities" data="UTL_INSTALL_T">上傳並安裝 CMS PRO 插件、模塊和主題。</phrase>
+	<phrase section="System Utilities" data="UTL_INSTALL_E">選擇要安裝的文件。</phrase>
+	<phrase section="System Utilities" data="UTL_CRBTN">空購物車</phrase>
+	<phrase section="System Utilities" data="UTL_DELBANNED">刪除禁止</phrase>
+	<phrase section="System Utilities" data="UTL_CREATESM">創建站點地圖</phrase>
+	<phrase section="System Utilities" data="UTL_GENERATE">產生</phrase>
+	<phrase section="System Utilities" data="UTL_DELPEND_OK">已成功刪除所有 [NAME] 待處理用戶。</phrase>
+	<phrase section="System Utilities" data="UTL_DELBND_OK">已成功刪除所有 [NAME] 禁止用戶。</phrase>
+	<phrase section="System Utilities" data="UTL_DELCRT_OK">總共 [NAME] 記錄已成功刪除。</phrase>
+	<phrase section="System Utilities" data="UTL_DELINCT_OK">已成功刪除總計 [NAME] 非活動用戶。</phrase>
+	<phrase section="System Utilities" data="UTL_MAP_ERROR">創建 [NAME] 時出錯。</phrase>
+	<phrase section="System Utilities" data="UTL_MAP_OK">站點地圖 [NAME] 創建成功。</phrase>
+	<phrase section="System Utilities" data="UTL_SLUGS_OK">系統 slug 更新成功。</phrase>
+	<phrase section="System Utilities" data="UTL_COLOR_OK">顏色 CSS 更新成功。</phrase>
+	<phrase section="Layout" data="LMG_TITLE">內容佈局管理器</phrase>
+	<phrase section="Layout" data="LMG_SUB">選擇頁面</phrase>
+	<phrase section="Layout" data="LMG_SUB1">選擇模塊</phrase>
+	<phrase section="Layout" data="LMG_TOP">頂部</phrase>
+	<phrase section="Layout" data="LMG_BOTTOM">底部</phrase>
+	<phrase section="Layout" data="LMG_LEFT">左側部分</phrase>
+	<phrase section="Layout" data="LMG_RIGHT">右側部分</phrase>
+	<phrase section="Layout" data="LMG_MAIN">主要區域</phrase>
+	<phrase section="Custom Fields" data="CF_TITLE">自定義字段</phrase>
+	<phrase section="Custom Fields" data="CF_ADD">新領域</phrase>
+	<phrase section="Custom Fields" data="CF_ADDED_OK">自定義字段 [NAME] 添加成功。</phrase>
+	<phrase section="Custom Fields" data="CF_DEL_OK">自定義字段 [NAME] 已成功刪除。</phrase>
+	<phrase section="Custom Fields" data="CF_EDIT">編輯字段</phrase>
+	<phrase section="Custom Fields" data="CF_FIELD">場地</phrase>
+	<phrase section="Custom Fields" data="CF_INFO">要重新排序字段，請單擊並拖動項目重新排序手柄，將其放置在您想要的位置。位置將自動更新。</phrase>
+	<phrase section="Custom Fields" data="CF_NOFIELDS">您還沒有任何自定義字段。請加...</phrase>
+	<phrase section="Custom Fields" data="CF_REQUIRED">必填項目</phrase>
+	<phrase section="Custom Fields" data="CF_SUB1">編輯自定義字段</phrase>
+	<phrase section="Custom Fields" data="CF_SUB2">添加自定義字段</phrase>
+	<phrase section="Custom Fields" data="CF_SUB3">管理自定義字段</phrase>
+	<phrase section="Custom Fields" data="CF_TIP">工具提示</phrase>
+	<phrase section="Custom Fields" data="CF_UPDATE">更新字段</phrase>
+	<phrase section="Custom Fields" data="CF_UPDATE_OK">自定義字段 [NAME] 已成功更新。</phrase>
+	<phrase section="File Manager" data="FM_LASTM">上一次更改</phrase>
+	<phrase section="File Manager" data="FM_UNZIP">解壓</phrase>
+	<phrase section="File Manager" data="FM_FSIZE">尺寸</phrase>
+	<phrase section="File Manager" data="FM_SPACE">空間</phrase>
+	<phrase section="File Manager" data="FM_DISPLAY">展示</phrase>
+	<phrase section="File Manager" data="FM_SORT">種類</phrase>
+	<phrase section="File Manager" data="FM_DIR">目錄</phrase>
+	<phrase section="File Manager" data="FM_DIRS">目錄</phrase>
+	<phrase section="File Manager" data="FM_FILE">文件</phrase>
+	<phrase section="File Manager" data="FM_FILES">文件</phrase>
+	<phrase section="File Manager" data="FM_NEWFLD">新建文件夾</phrase>
+	<phrase section="File Manager" data="FM_NEWFLD_S1">創建新文件夾</phrase>
+	<phrase section="File Manager" data="FM_NEWFLD_S2">文件夾名稱</phrase>
+	<phrase section="File Manager" data="FM_ALL_F">一切</phrase>
+	<phrase section="File Manager" data="FM_AMG_F">圖片</phrase>
+	<phrase section="File Manager" data="FM_VID_F">視頻</phrase>
+	<phrase section="File Manager" data="FM_AUD_F">聲音的</phrase>
+	<phrase section="File Manager" data="FM_DOC_F">文件</phrase>
+	<phrase section="File Upload" data="FU_ERROR6">已存在同名文件。</phrase>
+	<phrase section="File Upload" data="FU_ERROR7">檢測到無效圖像。</phrase>
+	<phrase section="File Upload" data="FU_ERROR8">文件擴展名無效。允許的擴展名是：</phrase>
+	<phrase section="File Upload" data="FU_ERROR9">抱歉，我們的服務器出現錯誤。請稍後再試。</phrase>
+	<phrase section="File Upload" data="FU_ERROR10">文件太大。最大允許大小為</phrase>
+	<phrase section="File Upload" data="FU_ERROR11">發生意外錯誤，請稍後重試</phrase>
+	<phrase section="File Upload" data="FU_ERROR12">抱歉，我們的服務器出現錯誤。請稍後再試。</phrase>
+	<phrase section="File Upload" data="FU_ERROR13">無法上傳文件</phrase>
+	<phrase section="File Upload" data="FU_ERROR14">您需要至少選擇一個文件。</phrase>
+	<phrase section="File Upload" data="FU_ERROR15">檢測到無效文件。</phrase>
+	<phrase section="File Upload" data="FU_ERROR16">檢測到無效目錄。</phrase>
+	<phrase section="Front" data="FRT_MERROR">哎呀！您必須登錄才能查看此頁面。</phrase>
+	<phrase section="Front" data="FRT_MERROR_1">您嘗試訪問的內容需要成員憑據。</phrase>
+	<phrase section="Front" data="FRT_MERROR_2">您嘗試訪問的內容需要以下成員資格之一：</phrase>
+	<phrase section="Front" data="FRT_SEARCH_EMPTY">對不起，您的搜索</phrase>
+	<phrase section="Front" data="FRT_SEARCH_EMPTY1">沒有產生任何結果。請嘗試搜索類似的術語。</phrase>
+	<phrase section="Front" data="FRT_SEARCH_EMPTY2">請在搜索框中輸入一些關鍵字進行搜索。</phrase>
+	<phrase section="Front" data="FRT_MTNC_TITLE">我們只是調整了一些東西</phrase>
+	<phrase section="Front" data="EU_NOTICE">我們使用 cookie 來改善您在網站上的體驗。需要一些 cookie 以確保網站正常運行，因此我們可能已經設置了一些 cookie。其他 cookie 收集有關您如何使用網站的匿名數據，但只有在您同意的情況下才會設置這些數據。</phrase>
+	<phrase section="Front" data="EU_ACCEPT">接受餅乾</phrase>
+	<phrase section="Front" data="EU_DECLINE">拒絕餅乾</phrase>
+	<phrase section="Front" data="EU_DECLINE_T">在這樣做時，您將被重定向。你要繼續嗎？</phrase>
+	<phrase section="Front" data="EU_W_COOKIES">什麼是餅乾？</phrase>
+	<phrase section="Contact Form" data="CF_SUBJECT_1">- - 你在想什麼？ ---</phrase>
+	<phrase section="Contact Form" data="CF_SUBJECT_2">讚揚</phrase>
+	<phrase section="Contact Form" data="CF_SUBJECT_3">批評</phrase>
+	<phrase section="Contact Form" data="CF_SUBJECT_4">建議</phrase>
+	<phrase section="Contact Form" data="CF_SUBJECT_5">廣告</phrase>
+	<phrase section="Contact Form" data="CF_SUBJECT_6">支持</phrase>
+	<phrase section="Contact Form" data="CF_SUBJECT_7">其他</phrase>
+	<phrase section="Contact Form" data="CF_SEND">發信息</phrase>
+	<phrase section="Contact Form" data="CF_ERR">發送電子郵件時出現問題。請聯繫網站管理員。</phrase>
+	<phrase section="Contact Form" data="CF_OK">謝謝！您的留言已成功發送。</phrase>
+	<phrase section="Payments" data="STR_POK">謝謝！付款成功完成。 4秒內重定向</phrase>
+	<phrase section="Payments" data="STR_POK1">付款驗證，請稍候...</phrase>
+	<phrase section="Payments" data="STR_SPCOK">付款確認。</phrase>
+	<phrase section="Payments" data="STR_SPCER">支付失敗。</phrase>
+	<phrase section="Payments" data="STR_CCN">卡號</phrase>
+	<phrase section="Payments" data="STR_CCV">CVC</phrase>
+	<phrase section="Payments" data="STR_CEXM">到期月份</phrase>
+	<phrase section="Payments" data="STR_CEXY">到期年份</phrase>
+	<phrase section="Payments" data="STR_ERR0">檢測到無效的購物車。</phrase>
+	<phrase section="Payments" data="STR_ERR">檢測到無效的成員資格。</phrase>
+	<phrase section="Payments" data="STR_ERR1">檢測到無效的交易記錄。</phrase>
+	<phrase section="Configuration" data="CG_REGALOWED">允許註冊</phrase>
+	<phrase section="Configuration" data="CG_FILETYPE">允許的文件類型</phrase>
+	<phrase section="Configuration" data="CG_AUTOVERIFY">自動註冊</phrase>
+	<phrase section="Configuration" data="CG_AV_WH">頭像寬度/高度</phrase>
+	<phrase section="Configuration" data="CG_CALDATE">日曆日期</phrase>
+	<phrase section="Configuration" data="CG_LOGO">公司標誌</phrase>
+	<phrase section="Configuration" data="CG_COMPANY">公司名</phrase>
+	<phrase section="Configuration" data="CG_OFFLINE_DT">日期/時間結束</phrase>
+	<phrase section="Configuration" data="CG_CURRENCY">默認貨幣</phrase>
+	<phrase section="Configuration" data="CG_LANG">默認語言</phrase>
+	<phrase section="Configuration" data="CG_LOCALES">默認語言環境</phrase>
+	<phrase section="Configuration" data="CG_MAILER">默認郵件程序</phrase>
+	<phrase section="Configuration" data="CG_DTZ">默認時區</phrase>
+	<phrase section="Configuration" data="CG_LOGODEL">刪除徽標</phrase>
+	<phrase section="Configuration" data="CG_EUCOOKIE">啟用歐盟 Cookie 法律聲明</phrase>
+	<phrase section="Configuration" data="CG_PLOADER">啟用頁面加載器</phrase>
+	<phrase section="Configuration" data="CG_ETAX">啟用增值稅/稅收</phrase>
+	<phrase section="Configuration" data="CG_FBID">臉書ID</phrase>
+	<phrase section="Configuration" data="CG_GA">谷歌分析代碼</phrase>
+	<phrase section="Configuration" data="CG_GMAPKEY">谷歌地圖 API 密鑰</phrase>
+	<phrase section="Configuration" data="CG_INFO">您可以在此處更新系統配置。除非您知道自己在做什麼，否則請不要進行任何更改。</phrase>
+	<phrase section="Configuration" data="CG_IM_WH">圖像寬度/高度</phrase>
+	<phrase section="Configuration" data="CG_LOGIN_ATTEMPT">不正確的登錄嘗試</phrase>
+	<phrase section="Configuration" data="CG_INVDATA">發票數據</phrase>
+	<phrase section="Configuration" data="CG_LOGO1">發票標誌</phrase>
+	<phrase section="Configuration" data="CG_INVNOTE">發票備註</phrase>
+	<phrase section="Configuration" data="CG_PERPAGE">每頁項目</phrase>
+	<phrase section="Configuration" data="CG_LOG_ON">記錄所有操作</phrase>
+	<phrase section="Configuration" data="CG_LOGIN_TIME">登錄等待時間</phrase>
+	<phrase section="Configuration" data="CG_LONGDATE">長日期</phrase>
+	<phrase section="Configuration" data="CG_OFFLINE_M">維修時尚</phrase>
+	<phrase section="Configuration" data="CG_OFFLINE_MS">服務模式消息</phrase>
+	<phrase section="Configuration" data="CG_FILESIZE">最大限度。文件大小</phrase>
+	<phrase section="Configuration" data="CG_OFFLINE">線下支付信息</phrase>
+	<phrase section="Configuration" data="CG_NOTIFY_ADMIN">註冊通知</phrase>
+	<phrase section="Configuration" data="CG_REGVERIFY">註冊驗證</phrase>
+	<phrase section="Configuration" data="CG_SMTP_SSL">需要 SSL</phrase>
+	<phrase section="Configuration" data="CG_SMAILPATH">發送郵件路徑</phrase>
+	<phrase section="Configuration" data="CG_SHORTDATE">短日期</phrase>
+	<phrase section="Configuration" data="CG_CRUMBS_SHOW">顯示麵包屑</phrase>
+	<phrase section="Configuration" data="CG_LANG_SHOW">顯示語言</phrase>
+	<phrase section="Configuration" data="CG_LOGIN_SHOW">顯示登錄</phrase>
+	<phrase section="Configuration" data="CG_SEARCH_SHOW">顯示搜索</phrase>
+	<phrase section="Configuration" data="CG_DIR">網站目錄</phrase>
+	<phrase section="Configuration" data="CG_SMTP_HOST">SMTP 主機名</phrase>
+	<phrase section="Configuration" data="CG_SMTP_PASS">SMTP 密碼</phrase>
+	<phrase section="Configuration" data="CG_SMTP_PORT">SMTP 端口</phrase>
+	<phrase section="Configuration" data="CG_SMTP_USER">SMTP 用戶名</phrase>
+	<phrase section="Configuration" data="CG_UPDATED">系統配置更新成功！</phrase>
+	<phrase section="Configuration" data="CG_TH_WH">縮略圖寬度/高度</phrase>
+	<phrase section="Configuration" data="CG_TIMEFORMAT">時間格式</phrase>
+	<phrase section="Configuration" data="CG_TWID">推特 ID</phrase>
+	<phrase section="Configuration" data="CG_UPDATE">更新配置</phrase>
+	<phrase section="Configuration" data="CG_WEBEMAIL">網站電子郵件</phrase>
+	<phrase section="Configuration" data="CG_SITENAME">網站名稱</phrase>
+	<phrase section="Configuration" data="CG_THEME">網站主題</phrase>
+	<phrase section="Configuration" data="CG_WEEKSTART">週開始於</phrase>
+	<phrase section="Configuration" data="CG_YTKEY">Youtube API 密鑰</phrase>
+	<phrase section="Dashboard" data="AD_TITLE">歡迎來到管理面板</phrase>
+	<phrase section="Dashboard" data="AD_INFO">在這裡您可以查看您的最新用戶統計信息，例如最新交易、註冊用戶數等。</phrase>
+	<phrase section="Dashboard" data="AD_REVENUE">網站收入</phrase>
+	<phrase section="Dashboard" data="AD_TODAY">今天</phrase>
+	<phrase section="Dashboard" data="AD_MY">月/年</phrase>
+	<phrase section="Dashboard" data="AD_TYEAR">總收集時間</phrase>
+	<phrase section="Dashboard" data="AD_TINCOME">總收入</phrase>
+	<phrase section="Dashboard" data="AD_RUSER">註冊用戶</phrase>
+	<phrase section="Dashboard" data="AD_AUSER">活躍用戶</phrase>
+	<phrase section="Dashboard" data="AD_PUSER">待定用戶</phrase>
+	<phrase section="Dashboard" data="AD_AMEM">活躍會員</phrase>
+	<phrase section="Trash" data="TRS_INFO">超過 30 天的項目將自動永久刪除。</phrase>
+	<phrase section="Trash" data="TRS_TITLE">垃圾管理器</phrase>
+	<phrase section="Trash" data="TRS_NOTRS">垃圾箱是空的。</phrase>
+	<phrase section="Trash" data="TRS_DELGOOD">永久刪除</phrase>
+	<phrase section="Trash" data="TRS_TEMPTY">清空垃圾桶</phrase>
+	<phrase section="Trash" data="TRS_TRS_OK">現在已刪除垃圾桶中的所有記錄。</phrase>
+	<phrase section="Meta" data="META_T1">儀表板</phrase>
+	<phrase section="Meta" data="META_T2">用戶管理</phrase>
+	<phrase section="Meta" data="META_T3">用戶歷史</phrase>
+	<phrase section="Meta" data="META_T4">會員管理</phrase>
+	<phrase section="Meta" data="META_T5">編輯會員資格</phrase>
+	<phrase section="Meta" data="META_T6">創建會員</phrase>
+	<phrase section="Meta" data="META_T7">會員歷史</phrase>
+	<phrase section="Meta" data="META_T8">管理CMS頁面</phrase>
+	<phrase section="Meta" data="META_T9">編輯頁面</phrase>
+	<phrase section="Meta" data="META_T10">電子郵件模板</phrase>
+	<phrase section="Meta" data="META_T11">編輯電子郵件模板</phrase>
+	<phrase section="Meta" data="META_T12">管理 CMS 菜單</phrase>
+	<phrase section="Meta" data="META_T13">新菜單</phrase>
+	<phrase section="Meta" data="META_T14">系統配置</phrase>
+	<phrase section="Meta" data="META_T15">自定義字段</phrase>
+	<phrase section="Meta" data="META_T16">編輯字段</phrase>
+	<phrase section="Meta" data="META_T17">創建字段</phrase>
+	<phrase section="Meta" data="META_T18">佈局管理器</phrase>
+	<phrase section="Meta" data="META_T19">系統實用程序</phrase>
+	<phrase section="Meta" data="META_T20">文件管理器</phrase>
+	<phrase section="Meta" data="META_T21">語言經理</phrase>
+	<phrase section="Meta" data="META_T22">付款方式</phrase>
+	<phrase section="Meta" data="META_T24">通訊經理</phrase>
+	<phrase section="Meta" data="META_T25">優惠券管理</phrase>
+	<phrase section="Meta" data="META_T26">編輯優惠券</phrase>
+	<phrase section="Meta" data="META_T27">創建優惠券</phrase>
+	<phrase section="Meta" data="META_T28">編輯插件</phrase>
+	<phrase section="Meta" data="META_T29">新插件</phrase>
+	<phrase section="Meta" data="META_T30">編輯模塊</phrase>
+	<phrase section="Meta" data="META_T31">歡迎來到[公司]</phrase>
+	<phrase section="Meta" data="META_T32">公開資料</phrase>
+	<phrase section="Meta" data="META_T33">垃圾箱</phrase>
+	<phrase section="Meta" data="META_T34">主題顏色</phrase>
+	<phrase section="Meta" data="META_ERROR">找不到網頁！！！</phrase>
+	<phrase section="Meta" data="META_ERROR1">哎呀！找不到網頁</phrase>
+	<phrase section="Meta" data="META_ERROR2">哎呀！看起來你點擊了一個錯誤的鏈接。</phrase>
+	<phrase section="Meta" data="META_ERROR3">如果您認為這是我們的問題，請</phrase>
+	<phrase section="Meta" data="META_ERROR3_1">告訴我們。</phrase>
+</language>

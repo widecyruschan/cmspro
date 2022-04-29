@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_MOD_GA_RESIZE_OK">[NUMBER] 張圖片已成功調整大小。</phrase>
+	<phrase data="_MOD_GA_SUB5">添加照片</phrase>
+	<phrase data="_MOD_GA_SUB7">附加畫廊</phrase>
+	<phrase data="_MOD_GA_COLS">列大小</phrase>
+	<phrase data="_MOD_GA_SUB3">創建圖庫</phrase>
+	<phrase data="_MOD_GA_TITLE1">編輯畫廊</phrase>
+	<phrase data="_MOD_GA_LIKE">啟用喜歡</phrase>
+	<phrase data="_MOD_GA_WMARK">啟用水印</phrase>
+	<phrase data="_MOD_GA_ADDED_OK">圖庫 [NAME] 添加成功。</phrase>
+	<phrase data="_MOD_GA_DEL_OK">圖庫 [NAME] 已成功刪除！</phrase>
+	<phrase data="_MOD_GA_UPDATE_OK">圖庫 [NAME] 已成功更新。</phrase>
+	<phrase data="_MOD_GA_SUB">在這裡您可以配置您的畫廊模塊。</phrase>
+	<phrase data="_MOD_GA_DIR">無效的圖庫文件夾</phrase>
+	<phrase data="_MOD_GA_TITLE">管理 CMS 庫</phrase>
+	<phrase data="_MOD_GA_SUB4">管理照片</phrase>
+	<phrase data="_MOD_GA_NEW">新畫廊</phrase>
+	<phrase data="_MOD_GA_PHOTO_DEL_OK">照片 [NAME] 已成功刪除。</phrase>
+	<phrase data="_MOD_GA_PHOTO_OK">照片 [NAME] 已成功更新。</phrase>
+	<phrase data="_MOD_GA_PHOTOS">相片</phrase>
+	<phrase data="_MOD_GA_INFO">請耐心等待，此操作可能需要一些時間。</phrase>
+	<phrase data="_MOD_GA_POSTER">海報</phrase>
+	<phrase data="_MOD_GA_RESIZE_TH">調整圖像縮略圖的大小</phrase>
+	<phrase data="_MOD_GA_RESIZE_THE">調整大小方法</phrase>
+	<phrase data="_MOD_GA_SUB6">選擇畫廊</phrase>
+	<phrase data="_MOD_GA_THUMBH">縮略圖高度</phrase>
+	<phrase data="_MOD_GA_THUMBW">縮略圖寬度</phrase>
+	<phrase data="_MOD_GA_SUB2">更新圖庫</phrase>
+	<phrase data="_MOD_GA_NOGAL">您還沒有任何畫廊...</phrase>
+	<phrase data="_MOD_GA_NOPHOTO">你還沒有照片...</phrase>
+</language>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_PLG_SL_TITLE1">添加幻燈片</phrase>
+	<phrase data="_PLG_SL_ANSPEED">動畫速度</phrase>
+	<phrase data="_PLG_SL_SUB11">動畫</phrase>
+	<phrase data="_PLG_SL_AUTOPLAY">自動播放</phrase>
+	<phrase data="_PLG_SL_ASPEED">自動播放速度</phrase>
+	<phrase data="_PLG_SL_SUB5">邊界半徑</phrase>
+	<phrase data="_PLG_SL_BUTTON">按鈕</phrase>
+	<phrase data="_PLG_SL_SUB13">更改圖像</phrase>
+	<phrase data="_PLG_SL_SUB4">顏色</phrase>
+	<phrase data="_PLG_SL_TITLE2">編輯幻燈片</phrase>
+	<phrase data="_PLG_SL_FSCREEN">全屏</phrase>
+	<phrase data="_PLG_SL_HEAD">標題</phrase>
+	<phrase data="_PLG_SL_SUB">在這裡您可以添加新幻燈片。</phrase>
+	<phrase data="_PLG_SL_SUB2">在這裡您可以配置通用滑塊插件。</phrase>
+	<phrase data="_PLG_SL_SUB1">在這裡您可以更新您當前的幻燈片。</phrase>
+	<phrase data="_PLG_SL_ICON">圖標</phrase>
+	<phrase data="_PLG_SL_IMGSCALE">圖像縮放模式</phrase>
+	<phrase data="_PLG_SL_SUB10">插入圖層</phrase>
+	<phrase data="_PLG_SL_LOOPS">環形</phrase>
+	<phrase data="_PLG_SL_LOOP">循環視頻</phrase>
+	<phrase data="_PLG_SL_SUB12">主背景圖</phrase>
+	<phrase data="_PLG_SL_TITLE">管理 CMS 通用滑塊插件</phrase>
+	<phrase data="_PLG_SL_SUB7">新滑塊</phrase>
+	<phrase data="_PLG_SL_PONHOVER">懸停時暫停</phrase>
+	<phrase data="_PLG_SL_SUB8">保存配置</phrase>
+	<phrase data="_PLG_SL_SHAPE">形狀</phrase>
+	<phrase data="_PLG_SL_SUB3">形狀設置</phrase>
+	<phrase data="_PLG_SL_ADDED">幻燈片 [NAME] 添加成功。</phrase>
+	<phrase data="_PLG_SL_UPDATED">幻燈片 [NAME] 已成功更新。</phrase>
+	<phrase data="_PLG_SL_ALANIM">幻燈片動畫</phrase>
+	<phrase data="_PLG_SL_DEL_OK">滑塊 [NAME] 已成功刪除。</phrase>
+	<phrase data="_PLG_SL_LAYOUT">滑塊佈局</phrase>
+	<phrase data="_PLG_SL_SUB14">滑塊預覽</phrase>
+	<phrase data="_PLG_SL_HEIGHT">滑塊視口高度</phrase>
+	<phrase data="_PLG_SL_PARA">文本</phrase>
+	<phrase data="_PLG_SL_SUB9">文字編輯</phrase>
+	<phrase data="_PLG_SL_THUMBS_P">縮略圖放置</phrase>
+	<phrase data="_PLG_SL_UPDATE">更新幻燈片</phrase>
+	<phrase data="_PLG_SL_VIDEO">視頻</phrase>
+	<phrase data="_PLG_SL_SUB6">寬度/高度</phrase>
+	<phrase data="_PLG_SL_NOSLIDER">您還沒有任何幻燈片。請加...</phrase>
+</language>

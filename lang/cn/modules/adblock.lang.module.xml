@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_MOD_AB_TITLE">广告块管理器</phrase>
+	<phrase data="_MOD_AB_ADD">添加广告系列</phrase>
+	<phrase data="_MOD_AB_SUB12">广告媒体</phrase>
+	<phrase data="_MOD_AB_SUB6">横幅 ALT</phrase>
+	<phrase data="_MOD_AB_SUB7">横幅 HTML 代码</phrase>
+	<phrase data="_MOD_AB_SUB4">横幅图片</phrase>
+	<phrase data="_MOD_AB_SUB5">横幅链接</phrase>
+	<phrase data="_MOD_AB_ADDED_OK">广告系列 [NAME] 添加成功！</phrase>
+	<phrase data="_MOD_AB_DEL_OK">广告系列 [NAME] 已成功删除！</phrase>
+	<phrase data="_MOD_AB_UPDATE_OK">广告系列 [NAME] 已成功更新！</phrase>
+	<phrase data="_MOD_AB_SUB8">点击次数</phrase>
+	<phrase data="_MOD_AB_SUB11">日期结束</phrase>
+	<phrase data="_MOD_AB_SUB10">开始日期</phrase>
+	<phrase data="_MOD_AB_SUB">日期开始/结束</phrase>
+	<phrase data="_MOD_AB_INFO">删除广告活动也将删除同一广告块下分配的所有图像和插件。</phrase>
+	<phrase data="_MOD_AB_EDIT">编辑广告系列</phrase>
+	<phrase data="_MOD_AB_SUB3">最低点击率</phrase>
+	<phrase data="_MOD_AB_NEW">新战役</phrase>
+	<phrase data="_MOD_AB_OFFLINE">离线</phrase>
+	<phrase data="_MOD_AB_ONLINE">在线的</phrase>
+	<phrase data="_MOD_AB_SUB2">允许的总点击次数</phrase>
+	<phrase data="_MOD_AB_SUB1">允许的总观看次数</phrase>
+	<phrase data="_MOD_AB_UPDATE">更新活动</phrase>
+	<phrase data="_MOD_AB_SUB9">意见</phrase>
+	<phrase data="_MOD_AB_NO_CMP">您没有任何活动 tet。请加...</phrase>
+</language>

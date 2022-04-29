@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_PLG_NSL_TITLE">管理通讯订阅者</phrase>
+	<phrase data="_PLG_NSL_SUB">订阅</phrase>
+	<phrase data="_PLG_NSL_SUB1">退订</phrase>
+	<phrase data="_PLG_NSL_SUBOK">您已成功订阅。</phrase>
+	<phrase data="_PLG_NSL_UNSUBOK">您已成功退订。</phrase>
+	<phrase data="_PLG_NSL_INFO">您共有 [TOTAL] 名时事通讯订阅者。</phrase>
+</language>

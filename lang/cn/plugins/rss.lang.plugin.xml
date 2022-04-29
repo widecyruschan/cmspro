@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_PLG_RSS_SUB2">添加新的 Rss 提要</phrase>
+	<phrase data="_PLG_RSS_TITLE1">添加RSS</phrase>
+	<phrase data="_PLG_RSS_TITLE2">编辑RSS</phrase>
+	<phrase data="_PLG_RSS_SUB1">在这里你可以配置你的 rss 插件。</phrase>
+	<phrase data="_PLG_RSS_TITLE">管理 CMS RSS 解析器插件</phrase>
+	<phrase data="_PLG_RSS_NEW">新资源</phrase>
+	<phrase data="_PLG_RSS_POST_DATE">发表于</phrase>
+	<phrase data="_PLG_RSS_ADDED_OK">Rss [NAME] 添加成功！</phrase>
+	<phrase data="_PLG_RSS_DEL_OK">Rss [NAME] 删除成功！</phrase>
+	<phrase data="_PLG_RSS_UPDATE_OK">Rss [NAME] 更新成功！</phrase>
+	<phrase data="_PLG_RSS_HELP">RSS 帮助</phrase>
+	<phrase data="_PLG_RSS_SHOW_DATE">显示日期</phrase>
+	<phrase data="_PLG_RSS_SHOW_DESC">显示说明</phrase>
+	<phrase data="_PLG_RSS_ITEMS">总项目</phrase>
+	<phrase data="_PLG_RSS_BODYTRIM">修剪描述长度</phrase>
+	<phrase data="_PLG_RSS_URL">要解析的网址</phrase>
+	<phrase data="_PLG_RSS_NORSS">您还没有任何 rss 插件...</phrase>
+</language>

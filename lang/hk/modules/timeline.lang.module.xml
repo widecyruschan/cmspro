@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<phrase data="_MOD_TML_SUB16">添加圖片</phrase>
+	<phrase data="_MOD_TML_SUB17">添加項目</phrase>
+	<phrase data="_MOD_TML_ADD">添加時間線</phrase>
+	<phrase data="_MOD_TML_TYPE_B">博客類型</phrase>
+	<phrase data="_MOD_TML_SUB12">編輯項目</phrase>
+	<phrase data="_MOD_TML_SUB">編輯時間線</phrase>
+	<phrase data="_MOD_TML_SUB7">Facebook 訪問令牌</phrase>
+	<phrase data="_MOD_TML_SUB6">臉書應用編號</phrase>
+	<phrase data="_MOD_TML_SUB20">臉書專頁</phrase>
+	<phrase data="_MOD_TML_TYPE_G">畫廊類型</phrase>
+	<phrase data="_MOD_TML_IHEIGHT">框架高度</phrase>
+	<phrase data="_MOD_TML_TYPE_I">iframe 類型</phrase>
+	<phrase data="_MOD_TML_IURL">iframe 網址</phrase>
+	<phrase data="_MOD_TML_ITMADDED_OK">項目 [NAME] 添加成功！</phrase>
+	<phrase data="_MOD_TML_DELI_OK">項目 [NAME] 已成功刪除！</phrase>
+	<phrase data="_MOD_TML_ITMUPDATE_OK">項目 [NAME] 更新成功！</phrase>
+	<phrase data="_MOD_TML_SUB14">物品種類</phrase>
+	<phrase data="_MOD_TML_SUB4">顯示的項目</phrase>
+	<phrase data="_MOD_TML_LMODE">佈局類型</phrase>
+	<phrase data="_MOD_TML_SUB19">裝載更多</phrase>
+	<phrase data="_MOD_TML_TITLE">管理 CMS 時間線</phrase>
+	<phrase data="_MOD_TML_SUB11">新物品</phrase>
+	<phrase data="_MOD_TML_NEW">新時間線</phrase>
+	<phrase data="_MOD_TML_SUB18">閱讀更多</phrase>
+	<phrase data="_MOD_TML_RMORE">閱讀更多網址</phrase>
+	<phrase data="_MOD_TML_SUB8">RSS 提要網址</phrase>
+	<phrase data="_MOD_TML_LSELTIME">選擇時間線</phrase>
+	<phrase data="_MOD_TML_SUB5">展示更多</phrase>
+	<phrase data="_MOD_TML_ADDED_OK">時間線 [NAME] 添加成功！</phrase>
+	<phrase data="_MOD_TML_DEL_OK">時間線 [NAME] 已成功刪除！</phrase>
+	<phrase data="_MOD_TML_UPDATE_OK">時間線 [NAME] 更新成功！</phrase>
+	<phrase data="_MOD_TML_SUB10">時間線項目</phrase>
+	<phrase data="_MOD_TML_SUB9">時間線類型</phrase>
+	<phrase data="_MOD_TML_SUB3">總項目</phrase>
+	<phrase data="_MOD_TML_SUB13">更新項目</phrase>
+	<phrase data="_MOD_TML_SUB2">更新時間線</phrase>
+	<phrase data="_MOD_TML_SUB15">至少上傳一張圖片</phrase>
+	<phrase data="_MOD_TML_NOITM">您還沒有任何項目...</phrase>
+	<phrase data="_MOD_TML_NOTML">你還沒有時間線...</phrase>
+</language>
