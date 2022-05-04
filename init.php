@@ -50,8 +50,8 @@
   define("FRONTVIEW", SITEURL . '/view/front');
   define("FRONTBASE", BASEPATH . 'view/front');
 
-  define("BUILDERVIEW", ADMINVIEW . '/builder');
-  define("BUILDERBASE", ADMINBASE . '/builder');
+  define("BUILDERVIEW", ADMINVIEW . '/newbuilder');
+  define("BUILDERBASE", ADMINBASE . '/newbuilder');
 
   define("BUILDERTHEME", BUILDERVIEW . '/themes/');
   

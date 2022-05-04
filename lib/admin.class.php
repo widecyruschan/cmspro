@@ -673,16 +673,16 @@
 		  }
 	  }
       /**
-       * Admin::Builders()
+       * Admin::newBuilder()
        * 
 	   * @param int $id
 	   * @param str $lang
        * @return
        */
-	  public function Builders($lang, $id)
+	  public function newBuilder($lang, $id)
 	  {
 		  $tpl = App::View(BASEPATH . 'view/');
-		  $tpl->dir = "admin/builders/";
+		  $tpl->dir = "admin/newbuilder/";
 		  $tpl->title = Lang::$word->META_T9;
 		  $tpl->crumbs = ['admin', Lang::$word->ADM_PAGES, 'edit'];
 		  
@@ -695,7 +695,7 @@
 			  $tpl->plugins = App::Plugins()->getFreePugins(null);
 			  $tpl->modules = App::Modules()->getFreeModules(null);
 			  $tpl->langlist = App::Core()->langlist;
-			  $tpl->template = 'admin/builders.tpl.php';
+			  $tpl->template = 'admin/newbuilder.tpl.php';
 		  }
 	  }
 

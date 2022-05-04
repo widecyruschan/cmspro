@@ -95,6 +95,7 @@
 
 	  //admin page builder
 	  $router->get('/builder/(\w+)/(\d+)', 'Admin@Builder');
+	  $router->get('/newbuilder/(\w+)/(\d+)', 'Admin@newBuilder');
 
 	  //admin gateways
 	  $router->mount('/gateways', function() use ($router, $tpl) {

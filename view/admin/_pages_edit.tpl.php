@@ -58,6 +58,8 @@
           <div class="wojo fields">
             <div class="field">
               <a class="wojo light button" href="<?php echo Url::url("/admin/builder/" . $lang->abbr, $this->data->id);?>"><i class="icon sliders horizontal"></i>
+              <?php echo Lang::$word->PAG_SUB5;?></a>&nbsp;&nbsp;&nbsp;
+              <a class="wojo light button" href="<?php echo Url::url("/admin/newbuilder/" . $lang->abbr, $this->data->id);?>"><i class="icon sliders horizontal"></i>
               <?php echo Lang::$word->PAG_SUB5;?></a>
               <?php /*?><textarea class="bodypost" name="body_<?php echo $lang->abbr;?>"><?php echo Url::out_url($this->data->{'body_' . $lang->abbr});?></textarea><?php */?>
             </div>
