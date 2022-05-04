@@ -55,12 +55,12 @@ header("Pragma: no-cache");
     <script src="<?php echo THEMEURL . '/plugins/cache/' . Cache::pluginJsCache(THEMEBASE . '/plugins');?>"></script>
     <script src="<?php echo THEMEURL . '/modules/cache/' . Cache::moduleJsCache(THEMEBASE . '/modules');?>"></script>
     <script>
-function SetFont(size){
-  var html = document.getElementsByTagName('html')[0];
-
-html.style.fontSize = size +'px'
-}
-</script>
+    function SetFont(size){
+      var html = document.getElementsByTagName('html')[0];
+      html.style.fontSize = size +'px'
+      body.style.fontSize = size +'px'
+    }
+  </script>
 <body class="page_<?php echo Url::doSeo($this->segments[0]);?>">
 <?php if($this->core->ploader):?>
 <!-- Page Loader -->
@@ -71,7 +71,7 @@ html.style.fontSize = size +'px'
 </div>
 <?php endif;?>
 <header id="header">
-<div class="top-bar">
+  <div class="top-bar">
     <div class="wojo-grid">
       <div class="row align middle small horizontal gutters">
         <div class="columns">
@@ -86,10 +86,10 @@ html.style.fontSize = size +'px'
         </div>
         <div class="columns auto">
           <div class="wojo icons"> 
-            <a href="javascript:SetFont(12)" style="font-size: small;">A</a>
-            &nbsp;<a href="javascript:SetFont(14)" style="font-size:medium;">A</a>
+          <a href="javascript:SetFont(13)" style="font-size: .8em;margin-top: 4px;text-decoration: underline;" class="white" title="縮小字型大小">A<span class="screen-reader-text"> 縮小字型大小。</span></a>
+            &nbsp;<a href="javascript:SetFont(16)" class="white" style="font-size:1em;margin-top: 2px;text-decoration: underline;" title="重設字型大小">A<span class="screen-reader-text"> 重設字型大小。</span></a>
             &nbsp;
-          <a href="javascript:SetFont(18)" style="font-size:larger;">A</a> 
+          <a href="javascript:SetFont(22)" style="font-size:1.4em;text-decoration: underline;" class="white" title="放大字型大小">A<span class="screen-reader-text">  放大字型大小。</span></a> 
           </div>
         </div>
         
@@ -107,7 +107,7 @@ html.style.fontSize = size +'px'
               <a href="<?php echo Url::url('/' . $this->core->modname['shop'], $this->core->modname['shop-checkout']);?>" class="white">
               <i class="icon bag"></i></a>
             <?php endif;?> -->
-          </div>194149.8
+          </div>
           
         </div>
         <?php endif;?>

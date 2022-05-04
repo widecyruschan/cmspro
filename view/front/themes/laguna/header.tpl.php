@@ -93,7 +93,7 @@
         <!--Lang Switcher-->
         <?php if(count($this->core->langlist) > 1):?>
         <div class="columns auto">
-          <a data-wdropdown="#dropdown-langChange" class="wojo mini demi caps white icon right text">
+          <a data-wdropdown="#dropdown-langChange" class="wojo demi caps white right text">
           <?php echo Core::$language;?>
           <i class="icon small chevron down"></i>
           </a>

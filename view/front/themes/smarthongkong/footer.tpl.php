@@ -43,8 +43,9 @@
         <div class="row align middle">
           <div class="columns phone-100">Copyright &copy;<?php echo date('Y') . ' '. $this->core->company;?> | Powered by <a href="http://tag.digital" target="_blank">tag.digital Limited</a></div>
           <div class="columns auto phone-100">
-            <a href="<?php echo SITEURL;?>" class="wojo small simple icon button"><i class="icon home"></i></a>
-            <a href="//validator.w3.org/check/referer" target="_blank" class="wojo small simple icon button"><i class="icon html5"></i></a>
+            <a href="https://www.w3.org/WAI/WCAG2AA-Conformance" class="wojo small simple" target="_blank"><img src="<?php echo THEMEURL;?>/images/wcag2.svg" alt="遵守2A級無障礙圖示，萬維網聯盟（W3C）- 無障礙網頁倡議（WAI） Web Content Accessibility Guidelines 2.1" style="width: 80px;margin: 5px;"></a>
+            <!-- <a href="<?php echo SITEURL;?>" class="wojo small simple icon button"><i class="icon home"></i></a> -->
+            <!-- <a href="//validator.w3.org/check/referer" target="_blank" class="wojo small simple icon button"><i class="icon html5"></i></a> -->
             <a href="<?php echo URl::url('/' . $this->core->system_slugs->sitemap[0]->{'slug' . Lang::$lang});?>" class="wojo small simple icon button"><i class="icon apps"></i></a>
             <a href="<?php echo SITEURL;?>/rss.php" class="wojo small simple icon button"><i class="icon rss"></i></a>
           </div>

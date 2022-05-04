@@ -1231,8 +1231,7 @@
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
-html,
-body {
+html {
     font-size: 16px;
     height: 100%;
 }
@@ -1354,7 +1353,7 @@ h6,
 .h5,
 .h6 {
     font-family: 'Maven Pro', 'source-han-sans-traditional', 'Open Sans', 'Source Sans Pro', sans-serif;
-    line-height: 1.5;
+    line-height: 1.2em;
     margin: 0 0 1rem 0;
     color: #1e2022;
     font-weight: 500;
@@ -1364,7 +1363,7 @@ h6,
 .h1,
 h1 {
     font-size: 3.5rem;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .h2,
@@ -1386,7 +1385,7 @@ h4 {
 .h5,
 h5 {
     font-size: 1.5rem;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .h6,
@@ -1548,7 +1547,7 @@ header#header a.logo {
 
 header#header .logo img,
 header#header .logo svg {
-    width: 10rem
+    width: 12rem
 }
 
 header#header .logo .logoshape1,
@@ -1576,9 +1575,18 @@ header .logo .logoshape2 {
     fill: var(--primary-color);
 }
 
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute!important;
+    width: 1px;
+}
+
 main {
     flex: 1 0 auto;
     background-size: 100% auto!important;
+    margin-top: 160px;
 }
 
 aside h4 {
@@ -2421,7 +2429,7 @@ body#errorPage footer {
 
 .video-content-title {
     font-family: 'Maven Pro', Sans-serif;
-    font-size: 50px;
+    font-size: 4em;
     font-weight: 600;
 }
 
@@ -2433,6 +2441,14 @@ body#errorPage footer {
     bottom: 15vw;
     width: 45vw;
     margin-left: 10vw;
+}
+
+.text-shadow-black {
+    text-shadow: 0 0 25px black;
+}
+
+.text-shadow-white {
+    text-shadow: 0 0 25px white;
 }
 
 header #dropdown-langChange a.active {

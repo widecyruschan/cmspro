@@ -46,8 +46,7 @@
     src: local(''), url('../fonts/WojoSansExtraLight.woff2') format('woff2'), url('../fonts/WojoSansExtraLight.woff') format('woff');
 }
 
-html,
-body {
+html {
     font-size: 16px;
     height: 100%;
 }
@@ -687,6 +686,14 @@ nav.menu>ul>li>ul.normal-sub>li a:hover {
     background-size: cover;
 }
 
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute!important;
+    width: 1px;
+}
+
 #moduleCaption figure {
     bottom: 0;
     left: 0;
@@ -1240,7 +1247,7 @@ body#errorPage footer {
 
 .video-content-title {
     font-family: Sans-serif;
-    font-size: 50px;
+    font-size: 4em;
     font-weight: 600;
 }
 
