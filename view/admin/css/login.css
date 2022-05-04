@@ -185,14 +185,14 @@ input[type="password"]:placeholder,
 
 input:-webkit-autofill {
     box-shadow: 0 0 0px 30px #fff inset;
-    background-color: #fff;
     -webkit-text-color: #fff;
-    color: #fff;
+    background-color: #4a5568;
+    color: #4a5568;
 }
 
 input:-webkit-autofill:focus {
-    -webkit-text-color: #fff;
-    color: #fff;
+    -webkit-text-color: #4a5568;
+    color: #4a5568;
 }
 
 .input-container.error {

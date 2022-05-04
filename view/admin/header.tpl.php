@@ -22,7 +22,7 @@
 <?php if(in_array(Core::$language, array("he", "ae", "ir"))):?>
 <link href="<?php echo ADMINVIEW . '/cache/' . Cache::cssCache(array('base_rtl.css','transition_rtl.css','label_rtl.css','form_rtl.css','dropdown_rtl.css','input_rtl.css','button_rtl.css','message_rtl.css','image_rtl.css','list_rtl.css','table_rtl.css','icon_rtl.css','card_rtl.css','modal_rtl.css','editor_rtl.css','tooltip_rtl.css','menu_rtl.css','progress_rtl.css','utility_rtl.css','style_rtl.css'), ADMINBASE);?>?ver=<?php echo time();?>" rel="stylesheet" type="text/css" />
 <?php else:?>
-<link href="<?php echo ADMINVIEW . '/cache/' . Cache::cssCache(array('base.css','transition.css','label.css','form.css','dropdown.css','input.css','button.css','message.css','image.css','list.css','table.css','icon.css','flags.css','card.css','modal.css','editor.css','tooltip.css','menu.css','progress.css','utility.css','style.css'), ADMINBASE);?>?ver=<?php echo time();?>" rel="stylesheet" type="text/css" />
+<link href="<?php echo ADMINVIEW . '/cache/' . Cache::cssCache(array('base.css','transition.css','label.css','form.css','dropdown.css','input.css','button.css','message.css','image.css','list.css','table.css','icon.css','flags.css','card.css','modal.css','editor.css','tooltip.css','menu.css','progress.css','utility.css','bootstrap.css','style.css'), ADMINBASE);?>?ver=<?php echo time();?>" rel="stylesheet" type="text/css" />
 <?php endif;?>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">

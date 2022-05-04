@@ -46,9 +46,9 @@
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96x96.png?<?php echo rand()?>">
 <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png?<?php echo rand()?>">
 <?php if(in_array(Core::$language, array("he", "ae", "ir"))):?>
-<link href="<?php echo THEMEURL . '/cache/' . Cache::cssCache(array('color_rtl.css', 'base_rtl.css','transition_rtl.css', 'button_rtl.css', 'icon_rtl.css', 'flag_rtl.css', 'image_rtl.css', 'label_rtl.css', 'form_rtl.css', 'input_rtl.css', 'list_rtl.css','card_rtl.css','table_rtl.css','dropdown_rtl.css','statistic_rtl.css','datepicker_rtl.css','message_rtl.css','modal_rtl.css','progress_rtl.css','editor_rtl.css','feed_rtl.css','comment_rtl.css','tooltip_rtl.css','utility_rtl.css','style_rtl.css'), THEMEBASE);?>?<?php echo rand();?>" rel="stylesheet" type="text/css">
+  <link href="<?php echo THEMEURL . '/cache/' . Cache::cssCache(array('color_rtl.css', 'base_rtl.css','transition_rtl.css', 'button_rtl.css', 'icon_rtl.css', 'flag_rtl.css', 'image_rtl.css', 'label_rtl.css', 'form_rtl.css', 'input_rtl.css', 'list_rtl.css','card_rtl.css','table_rtl.css','dropdown_rtl.css','statistic_rtl.css','datepicker_rtl.css','message_rtl.css','modal_rtl.css','progress_rtl.css','editor_rtl.css','feed_rtl.css','comment_rtl.css','tooltip_rtl.css','utility_rtl.css','bootstrap_rtl.css','style_rtl.css'), THEMEBASE);?>?ver=<?php echo time();?>" rel="stylesheet" type="text/css">
 <?php else:?>
-<link href="<?php echo THEMEURL . '/cache/' . Cache::cssCache(array('color.css', 'base.css','transition.css', 'button.css', 'icon.css', 'flag.css', 'image.css', 'label.css', 'form.css', 'input.css', 'list.css','card.css','table.css','dropdown.css','statistic.css','datepicker.css','message.css','modal.css','progress.css','feed.css','comment.css','tooltip.css','editor.css','utility.css','style.css'), THEMEBASE);?>?<?php echo rand();?>" rel="stylesheet" type="text/css">
+<link href="<?php echo THEMEURL . '/cache/' . Cache::cssCache(array('color.css', 'base.css','transition.css', 'button.css', 'icon.css', 'flag.css', 'image.css', 'label.css', 'form.css', 'input.css', 'list.css','card.css','table.css','dropdown.css','statistic.css','datepicker.css','message.css','modal.css','progress.css','feed.css','comment.css','tooltip.css','editor.css','utility.css','bootstrap.css','style.css'), THEMEBASE);?>?ver=<?php echo time();?>" rel="stylesheet" type="text/css">
 <?php endif;?>
 <link href="<?php echo THEMEURL . '/plugins/cache/' . Cache::pluginCssCache(THEMEBASE . '/plugins');?>" rel="stylesheet" type="text/css">
 <link href="<?php echo THEMEURL . '/modules/cache/' . Cache::moduleCssCache(THEMEBASE . '/modules');?>" rel="stylesheet" type="text/css">
@@ -67,17 +67,17 @@
 </div>
 <?php endif;?>
 <header id="header">
-  <div class="wojo-grid">
+<div class="wojo-grid">
     <div class="bottom-bar">
       <div class="row align middle small horizontal gutters">
         <div class="columns phone mobile order-1">
           <a href="<?php echo SITEURL;?>/" class="logo"><?php echo ($this->core->logo) ? '<img src="' . SITEURL . '/uploads/' . $this->core->logo . '" alt="'.$this->core->company . '">': $this->core->company;?></a>
         </div>
-        <div class="columns auto screen-hide tablet-hide phone mobile order-3"> <a href="#" class="menu-mobile"><i class="icon large reorder"></i></a></div>
-        <div class="columns auto mobile-100 phone-100 phone mobile order-4">
+        <div class="columns auto screen-hide tablet-hide phone mobile order-2"> <a href="#" class="menu-mobile"><i class="icon large reorder"></i></a></div>
+        <div class="columns auto mobile-100 phone-100 phone mobile order-3">
           <nav class="menu"><?php echo App::Content()->renderMenu($this->menu);?></nav>
         </div>
-        <div class="columns auto phone mobile order-2">
+        <div class="columns auto phone mobile order-4">
           <div class="wojo horizontal list" id="iconList">
             <?php if($this->core->showsearch):?>
             <div class="item">

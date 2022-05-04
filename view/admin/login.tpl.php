@@ -28,7 +28,7 @@
 <link href="<?php echo ADMINVIEW;?>/css/progress.css" rel="stylesheet" type="text/css">
 <link href="<?php echo ADMINVIEW;?>/css/icon.css" rel="stylesheet" type="text/css">
 <link href="<?php echo ADMINVIEW;?>/css/message.css" rel="stylesheet" type="text/css">
-<link href="<?php echo ADMINVIEW;?>/css/login.css" rel="stylesheet" type="text/css">
+<link href="<?php echo ADMINVIEW;?>/css/login.css?<?php echo rand()?>" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="<?php echo SITEURL;?>/assets/jquery.js"></script>
 <script type="text/javascript" src="<?php echo SITEURL;?>/assets/global.js"></script>
 </head>

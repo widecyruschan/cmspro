@@ -414,6 +414,18 @@ input[type="month"] {
     height: 500px;
 }
 
+.h600 {
+    height: 600px;
+}
+
+.h700 {
+    height: 700px;
+}
+
+.h800 {
+    height: 800px;
+}
+
 .hp100 {
     height: 100%;
 }
@@ -634,7 +646,7 @@ body {
 
 .wojo-grid {
     width: auto;
-    max-width: 1140px;
+    max-width: 1280px;
     margin: 0 auto;
     padding-right: var(--padding);
     padding-left: var(--padding);

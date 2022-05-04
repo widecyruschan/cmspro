@@ -28,9 +28,9 @@
         </div>
         <?php if($this->core->showcrumbs):?>
         <div class="columns screen-100 tablet-100 mobile-100 phone-100 center aligned align self bottom">
-          <div class="wojo small white breadcrumb">
+          <!-- <div class="wojo small white breadcrumb">
             <?php echo Url::crumbs($this->crumbs ? $this->crumbs : $this->segments, "<i class=\"icon primary long arrow right\"></i>", Lang::$word->HOME);?>
-          </div>
+          </div> -->
         </div>
         <?php endif;?>
       </div>

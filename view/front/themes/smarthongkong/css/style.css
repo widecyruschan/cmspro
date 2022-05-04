@@ -406,7 +406,9 @@ aside h4 {
 
 /* == Menu == */
 
-nav.menu {}
+nav.menu {
+    position: relative;
+}
 
 nav.menu .menu-mobile {
     display: none;
@@ -570,6 +572,7 @@ nav.menu>ul>li>ul>li a {
     text-transform: uppercase;
     font-weight: 500;
     cursor: default;
+    max-width: 400px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
@@ -616,9 +619,11 @@ nav.menu>ul>li>ul>li>ul>li a:hover {
 }
 
 nav.menu>ul>li>ul.normal-sub {
-    width: 300px;
-    left: auto;
+    width: 100vw;
+    left: 0;
     padding: 0;
+    padding-left: calc(50vw - 280px);
+    position: fixed;
 }
 
 nav.menu>ul>li>ul.normal-sub>li {

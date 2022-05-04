@@ -44,9 +44,9 @@ header("Pragma: no-cache");
     <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96x96.png?<?php echo rand()?>">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png?<?php echo rand()?>">
     <?php if(in_array(Core::$language, array("he", "ae", "ir"))):?>
-    <link href="<?php echo THEMEURL . '/cache/' . Cache::cssCache(array('color_rtl.css', 'base_rtl.css','transition_rtl.css', 'button_rtl.css', 'icon_rtl.css', 'flag_rtl.css', 'image_rtl.css', 'label_rtl.css', 'form_rtl.css', 'input_rtl.css', 'list_rtl.css','card_rtl.css','table_rtl.css','dropdown_rtl.css','statistic_rtl.css','datepicker_rtl.css','message_rtl.css','modal_rtl.css','progress_rtl.css','editor_rtl.css','feed_rtl.css','comment_rtl.css','tooltip_rtl.css','utility_rtl.css','style_rtl.css'), THEMEBASE);?>?<?php echo rand();?>" rel="stylesheet" type="text/css">
-    <?php else:?>
-    <link href="<?php echo THEMEURL . '/cache/' . Cache::cssCache(array('color.css', 'base.css','transition.css', 'button.css', 'icon.css', 'flag.css', 'image.css', 'label.css', 'form.css', 'input.css', 'list.css','card.css','table.css','dropdown.css','statistic.css','datepicker.css','message.css','modal.css','progress.css','feed.css','comment.css','tooltip.css','editor.css','utility.css','style.css'), THEMEBASE);?>?<?php echo rand();?>" rel="stylesheet" type="text/css">
+      <link href="<?php echo THEMEURL . '/cache/' . Cache::cssCache(array('color_rtl.css', 'base_rtl.css','transition_rtl.css', 'button_rtl.css', 'icon_rtl.css', 'flag_rtl.css', 'image_rtl.css', 'label_rtl.css', 'form_rtl.css', 'input_rtl.css', 'list_rtl.css','card_rtl.css','table_rtl.css','dropdown_rtl.css','statistic_rtl.css','datepicker_rtl.css','message_rtl.css','modal_rtl.css','progress_rtl.css','editor_rtl.css','feed_rtl.css','comment_rtl.css','tooltip_rtl.css','utility_rtl.css','bootstrap_rtl.css','style_rtl.css'), THEMEBASE);?>" rel="stylesheet" type="text/css">
+      <?php else:?>
+      <link href="<?php echo THEMEURL . '/cache/' . Cache::cssCache(array('color.css', 'base.css','transition.css', 'button.css', 'icon.css', 'flag.css', 'image.css', 'label.css', 'form.css', 'input.css', 'list.css','card.css','table.css','dropdown.css','statistic.css','datepicker.css','message.css','modal.css','progress.css','feed.css','comment.css','tooltip.css','editor.css','utility.css','bootstrap.css','style.css'), THEMEBASE);?>" rel="stylesheet" type="text/css">
     <?php endif;?>
     <link href="<?php echo THEMEURL . '/plugins/cache/' . Cache::pluginCssCache(THEMEBASE . '/plugins');?>" rel="stylesheet" type="text/css">
     <link href="<?php echo THEMEURL . '/modules/cache/' . Cache::moduleCssCache(THEMEBASE . '/modules');?>" rel="stylesheet" type="text/css">
@@ -54,7 +54,13 @@ header("Pragma: no-cache");
     <script src="<?php echo SITEURL;?>/assets/global.js"></script>
     <script src="<?php echo THEMEURL . '/plugins/cache/' . Cache::pluginJsCache(THEMEBASE . '/plugins');?>"></script>
     <script src="<?php echo THEMEURL . '/modules/cache/' . Cache::moduleJsCache(THEMEBASE . '/modules');?>"></script>
-</head>
+    <script>
+function SetFont(size){
+  var html = document.getElementsByTagName('html')[0];
+
+html.style.fontSize = size +'px'
+}
+</script>
 <body class="page_<?php echo Url::doSeo($this->segments[0]);?>">
 <?php if($this->core->ploader):?>
 <!-- Page Loader -->
@@ -78,14 +84,14 @@ header("Pragma: no-cache");
             </div>
           </div>
         </div>
-        <!-- <div class="columns auto">
+        <div class="columns auto">
           <div class="wojo icons"> 
-            <a class="white"><i class="icon facebook"></i></a>
-            <a class="white"><i class="icon twitter"></i></a>
-            <a class="white"><i class="icon instagram"></i></a>
-            <a class="white"><i class="icon github"></i></a>
+            <a href="javascript:SetFont(12)" style="font-size: small;">A</a>
+            &nbsp;<a href="javascript:SetFont(14)" style="font-size:medium;">A</a>
+            &nbsp;
+          <a href="javascript:SetFont(18)" style="font-size:larger;">A</a> 
           </div>
-        </div> -->
+        </div>
         
         <?php if(File::is_File(FMODPATH . 'digishop/index.tpl.php') or File::is_File(FMODPATH . 'shop/index.tpl.php')):?>
         <div class="columns auto">
@@ -101,7 +107,8 @@ header("Pragma: no-cache");
               <a href="<?php echo Url::url('/' . $this->core->modname['shop'], $this->core->modname['shop-checkout']);?>" class="white">
               <i class="icon bag"></i></a>
             <?php endif;?> -->
-          </div>
+          </div>194149.8
+          
         </div>
         <?php endif;?>
         

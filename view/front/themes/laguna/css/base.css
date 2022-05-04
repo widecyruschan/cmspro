@@ -640,6 +640,14 @@ body {
     padding-left: var(--padding);
 }
 
+.wojo-grid {
+    width: auto;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding-right: var(--padding);
+    padding-left: var(--padding);
+}
+
 .wojo.mason,
 .wojo.mason.three {
     -webkit-column-count: 3;
