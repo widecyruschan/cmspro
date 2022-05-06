@@ -1289,6 +1289,18 @@ video.bg {
     }
 }
 
+.mobile-header-bar {
+    display: none;
+}
+
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute!important;
+    width: 1px;
+}
+
 
 /* == Tablet == */
 
@@ -1311,6 +1323,9 @@ video.bg {
 /* == Mobile == */
 
 @media screen and (max-width:48.063em) {
+    .mobile-header-bar {
+        display: block;
+    }
     header#header .bottom-bar {
         margin-top: .5rem;
     }
@@ -1395,8 +1410,12 @@ video.bg {
 /* == Phone == */
 
 @media screen and (max-width:30em) {
-    header#header .top-bar {
+    /* header#header .top-bar {
         display: none;
+    } */
+    header#header .top-bar .wojo-grid .list .item {
+        width: 100%;
+        text-align: center;
     }
     body#errorPage footer {
         position: relative;

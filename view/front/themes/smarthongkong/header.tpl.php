@@ -178,3 +178,6 @@ header("Pragma: no-cache");
     </div>
   </div>
 </header>
+<div class="mobile-header-bar">
+
+</div>

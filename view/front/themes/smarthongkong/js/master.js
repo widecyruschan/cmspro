@@ -36,23 +36,23 @@
 
         // sticky menu desktop only
         if ($("#header").length) {
-			$(window).on('scroll', function () {
-				var scrollTop = $(this).scrollTop();
-		
-				if (scrollTop > 120) {
-					$('#header').addClass('sticky');
-				} else {
-					$('#header').removeClass('sticky');
-				}
-			});
-			var scrollTop = $(window).scrollTop();
-			if (scrollTop > 120) {
-				$('#header').addClass('sticky');
-			} else {
-				$('#header').removeClass('sticky');
-			}
+            $(window).on('scroll', function() {
+                var scrollTop = $(this).scrollTop();
+
+                if (scrollTop > 120) {
+                    $('#header').addClass('sticky');
+                } else {
+                    $('#header').removeClass('sticky');
+                }
+            });
+            var scrollTop = $(window).scrollTop();
+            if (scrollTop > 120) {
+                $('#header').addClass('sticky');
+            } else {
+                $('#header').removeClass('sticky');
+            }
         }
-	
+
         //Lightbox
         $('.lightbox').wlightbox();
 
@@ -98,7 +98,7 @@
                 autoplayHoverPause: set.autoplayHoverPause,
                 margin: 0,
                 loop: set.autoloop,
-				rtl: set.rtl,
+                rtl: set.rtl,
                 "responsive": {
                     "0": {
                         "items": 1
@@ -229,7 +229,7 @@
             $("nav.menu > ul").toggleClass('show-on-mobile');
             e.preventDefault();
         });
-        
+
         /* == Input focus == */
         $(document).on("focusout", '.wojo.input input, .wojo.input textarea', function() {
             $('.wojo.input').removeClass('focus');
@@ -237,7 +237,7 @@
         $(document).on("focusin", '.wojo.input input, .wojo.input textarea', function() {
             $(this).closest('.input').addClass('focus');
         });
-		
+
         /* == Membership Select == */
         $(".add-membership").on("click", function() {
             $("#membershipSelect .segment").removeClass('active');
@@ -295,13 +295,13 @@
                         $(".totalamt").html(json.gtotal);
                         $(".disc").html(json.disc);
                         $(".disc").parent().addClass('highlite');
-						if(json.is_full === 100) {
-							$("#activateCoupon").show();
-							$("#gateList").hide();
-						} else {
-							$("#activateCoupon").hide();
-							$("#gateList").show();
-						}
+                        if (json.is_full === 100) {
+                            $("#activateCoupon").show();
+                            $("#gateList").hide();
+                        } else {
+                            $("#activateCoupon").hide();
+                            $("#gateList").show();
+                        }
                     } else {
                         $parent.transition('shake');
                     }
@@ -312,18 +312,18 @@
 
         /* == Coupon Select == */
         $(document).on("click", ".activateCoupon", function() {
-			var $this = $(this);
-                $this.addClass('loading');
-                $.post(config.url + "/controller.php", {
-                    action: "activateCoupon",
-                }, function(json) {
-                    if (json.type === "success") {
-						window.location.href = window.location.href;
-                    }
-                    $this.removeClass('loading');
-                }, "json");
+            var $this = $(this);
+            $this.addClass('loading');
+            $.post(config.url + "/controller.php", {
+                action: "activateCoupon",
+            }, function(json) {
+                if (json.type === "success") {
+                    window.location.href = window.location.href;
+                }
+                $this.removeClass('loading');
+            }, "json");
         });
-		
+
         /* == Scrool to element == */
         $(document).on('click', '[data-scroll="true"]', function(event) {
             event.preventDefault();
@@ -619,4 +619,13 @@
 
         });
     };
+    var activeElement = document.activeElement;
+    if (activeElement) {
+        activeElement.blur();
+    } else if (document.parentElement) {
+        document.parentElement.focus();
+    } else {
+        window.focus();
+
+    }
 })(jQuery);

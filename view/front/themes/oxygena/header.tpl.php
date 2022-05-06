@@ -44,6 +44,13 @@
 <script type="text/javascript" src="<?php echo SITEURL;?>/assets/global.js"></script>
 <script type="text/javascript" src="<?php echo THEMEURL . '/plugins/cache/' . Cache::pluginJsCache(THEMEBASE . '/plugins');?>"></script>
 <script type="text/javascript" src="<?php echo THEMEURL . '/modules/cache/' . Cache::moduleJsCache(THEMEBASE . '/modules');?>"></script>
+<script>
+    function SetFont(size){
+      var html = document.getElementsByTagName('html')[0];
+      html.style.fontSize = size +'px'
+      body.style.fontSize = size +'px'
+    }
+  </script>
 </head>
 <body class="page_<?php echo Url::doSeo($this->segments[0]);?>">
 <?php if($this->core->ploader):?>
@@ -55,6 +62,51 @@
 </div>
 <?php endif;?>
 <header id="header">
+<div class="top-bar">
+    <div class="wojo-grid">
+      <div class="row align middle small horizontal gutters">
+        <div class="columns">
+          <div class="wojo small horizontal list">
+            <div class="item align middle"><i class="icon primary email"></i>
+              <div class="content wojo white text"><?php echo $this->core->site_email;?></div>
+            </div>
+            <div class="item align middle"><i class="icon primary building"></i>
+              <div class="content wojo white text"><?php echo $this->core->company;?></div>
+            </div>
+          </div>
+        </div>
+        <div class="columns auto">
+          <div class="wojo icons white">  
+          <a href="javascript:SetFont(13)" style="font-size: .8em;margin-top: 4px;text-decoration: underline;" class="white" title="縮小字型大小">A<span class="screen-reader-text"> 縮小字型大小。</span></a>
+            &nbsp;<a href="javascript:SetFont(16)" class="white" style="font-size:1em;margin-top: 2px;text-decoration: underline;" title="重設字型大小">A<span class="screen-reader-text"> 重設字型大小。</span></a>
+            &nbsp;
+          <a href="javascript:SetFont(22)" style="font-size:1.4em;text-decoration: underline;" class="white" title="放大字型大小">A<span class="screen-reader-text">  放大字型大小。</span></a> 
+          </div>
+        </div>
+        
+        <?php if(File::is_File(FMODPATH . 'digishop/index.tpl.php') or File::is_File(FMODPATH . 'shop/index.tpl.php')):?>
+        <div class="columns auto">
+          <div class="wojo icons"> 
+            <!--digishop cart-->
+            <!-- <?php if(File::is_File(FMODPATH . 'digishop/index.tpl.php')):?>
+              <a href="<?php echo Url::url('/' . $this->core->modname['digishop'], $this->core->modname['digishop-checkout']);?>" class="white">
+              <i class="icon basket"></i></a>
+            <?php endif;?> -->
+
+            <!--shop cart-->
+            <!-- <?php if(File::is_File(FMODPATH . 'shop/index.tpl.php')):?>
+              <a href="<?php echo Url::url('/' . $this->core->modname['shop'], $this->core->modname['shop-checkout']);?>" class="white">
+              <i class="icon bag"></i></a>
+            <?php endif;?> -->
+          </div>
+          
+        </div>
+        <?php endif;?>
+        
+    
+      </div>
+    </div>
+  </div>
   <div class="wojo-grid">
     <div class="bottom-bar">
       <div class="row align middle small horizontal gutters">

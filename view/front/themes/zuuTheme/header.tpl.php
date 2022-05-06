@@ -69,7 +69,7 @@
 </div>
 <?php endif;?>
 <header id="header">
-<div class="top-bar">
+  <div class="top-bar">
     <div class="wojo-grid">
       <div class="row align middle small horizontal gutters">
         <div class="columns">

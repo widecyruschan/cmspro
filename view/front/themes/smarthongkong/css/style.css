@@ -1265,6 +1265,10 @@ header #dropdown-langChange a.active {
     color: #fff!important;
 }
 
+.mobile-header-bar {
+    display: none;
+}
+
 
 /* == Tablet == */
 
@@ -1302,6 +1306,9 @@ input:autofill {
 @media screen and (max-width:48.063em) {
     header#header .bottom-bar {
         margin-top: .5rem;
+    }
+    .mobile-header-bar {
+        display: block;
     }
     nav.menu {
         text-align: left;

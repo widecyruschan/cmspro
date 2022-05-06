@@ -56,6 +56,7 @@
 </footer>
 <a href="#" id="back-to-top" title="Back to top"><i class="icon long arrow up"></i></a>
 <script src="<?php echo THEMEURL;?>/js/master.js"></script>
+<script src="<?php echo THEMEURL;?>/js/dropdown.js"></script>
 <?php Debug::displayInfo();?>
 <script> 
 // <![CDATA[  
